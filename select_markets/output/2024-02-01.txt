@@ -1,0 +1,640 @@
+# 638 markets selected on 2024-01-28.
+# Close dates from 2024-01-31 to 2024-02-01 (or possibly up to 2024-02-07).
+https://manifold.markets/Akzzz123/is-there-a-significant-discrepancy		# Closes 2024-01-31 19:35:00. 11 bettors.
+https://manifold.markets/MiraBot/will-mira-produce-a-yesqualifying-s-3b1df4070c21		# Closes 2024-02-01 07:59:00. 11 bettors.
+https://manifold.markets/NathanpmYoung/will-my-mri-scan-tell-me-anything-u		# Closes 2024-01-31 23:59:00. 15 bettors.
+https://manifold.markets/PS/will-significant-numbers-of-russian		# Closes 2024-01-31 22:59:00. 15 bettors.
+https://manifold.markets/MarcusAbramovitch/will-there-be-100-or-more-homicides		# Closes 2024-02-01 04:59:00. 11 bettors.
+https://manifold.markets/humblestumble/will-there-be-a-21st-member-state-o		# Closes 2024-02-01 21:59:00. 11 bettors.
+https://manifold.markets/IsaacKohane/will-boston-have-at-least-10-inches		# Closes 2024-02-01 22:59:00. 11 bettors.
+https://manifold.markets/Gen/will-a-manifold-political-ad-previo		# Closes 2024-02-01 13:29:00. 15 bettors.
+https://manifold.markets/YairNeumann/will-tottenham-sign-jeanclair-todib		# Closes 2024-02-01 12:59:00. 11 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-11000-monthly-a-0d6aa24af019		# Closes 2024-02-01 04:59:56.395000. 10 bettors.
+https://manifold.markets/MaxGhenis/will-the-us-raise-its-additional-ch		# Closes 2024-01-31 22:59:00. 14 bettors.
+https://manifold.markets/DevonLambert/will-the-nasdaq-100-index-ndx-close		# Closes 2024-01-31 20:00:00. 13 bettors.
+https://manifold.markets/BanhMiChuoi/will-i-get-125000xp-on-duolingo-bef		# Closes 2024-02-01 16:59:00. 10 bettors.
+https://manifold.markets/SirCryptomind/will-former-trump-attorney-jenna-el		# Closes 2024-02-01 04:59:00. 10 bettors.
+https://manifold.markets/Katzenversteher/will-elon-musk-die-in-january-2024		# Closes 2024-02-01 22:59:00. 12 bettors.
+https://manifold.markets/firstuserhere/will-manifund-have-a-dark-mode-by-t		# Closes 2024-02-01 18:29:00. 10 bettors.
+https://manifold.markets/Celene/is-eliezers-guess-that-a-random-xtw		# Closes 2024-02-01 07:59:00. 16 bettors.
+https://manifold.markets/PeterKolyvski/will-it-be-over-90-degrees-at-phoen		# Closes 2024-01-31 18:59:00. 10 bettors.
+https://manifold.markets/JacobPfau/is-llama2chat-jailbreakable-with-a		# Closes 2024-02-01 04:59:00. 18 bettors.
+https://manifold.markets/NicoDelon/will-the-main-covid-origin-market-h		# Closes 2024-02-01 04:59:00. 13 bettors.
+https://manifold.markets/StefanXJ7/will-the-no-labels-organization-nom		# Closes 2024-02-01 04:59:00. 14 bettors.
+https://manifold.markets/DeathByTech/will-russia-control-avdiivka-by-the		# Closes 2024-02-01 04:59:00. 15 bettors.
+https://manifold.markets/strutheo/did-the-world-mine-more-iron-ore-in		# Closes 2024-02-01 04:59:00. 17 bettors.
+https://manifold.markets/ZZZZZZ/will-my-relative-be-scammed-out-of		# Closes 2024-02-01 03:15:00. 14 bettors.
+https://manifold.markets/LUCATheory/will-a-major-tech-company-eg-apple		# Closes 2024-02-01 04:59:00. 19 bettors.
+https://manifold.markets/StigJohan/will-the-acquisition-of-widere-by-n		# Closes 2024-01-31 22:59:00. 13 bettors.
+https://manifold.markets/JaromirSvoboda/will-lesswrongcom-organic-traffic-t		# Closes 2024-01-31 22:59:00. 14 bettors.
+https://manifold.markets/EliTyre/did-dath-ilan-locate-default-the-gr		# Closes 2024-02-01 07:59:00. 12 bettors.
+https://manifold.markets/mattyb/google-vs-apple-will-apple-yes-comp		# Closes 2024-02-01 07:59:00. 17 bettors.
+https://manifold.markets/mirrorbot/metaculus-before-2024-will-iran-pos		# Closes 2024-02-01 17:00:00. 17 bettors.
+https://manifold.markets/MP/conditional-on-the-fight-being-offi		# Closes 2024-02-01 02:59:00. 15 bettors.
+https://manifold.markets/davidad/on-20240131-will-there-be-a-consens		# Closes 2024-02-01 19:59:00. 16 bettors.
+https://manifold.markets/drewski/will-it-snow-1-inch-in-seattle-in-j		# Closes 2024-02-01 07:59:00. 19 bettors.
+https://manifold.markets/PaulSchleuse/will-taylor-swift-release-reputatio		# Closes 2024-02-01 05:59:00. 15 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10700-monthly-a		# Closes 2024-02-01 04:59:56.395000. 14 bettors.
+https://manifold.markets/PaulSchleuse/will-taylor-swift-release-taylor-sw-6308878b208b		# Closes 2024-02-01 05:59:00. 13 bettors.
+https://manifold.markets/Cactus/minimum-monthly-google-search-engin-a437d4c3ef8b		# Closes 2024-01-31 23:59:00. 16 bettors.
+https://manifold.markets/tg/will-the-un-general-assembly-pass-a		# Closes 2024-02-01 04:59:00. 10 bettors.
+https://manifold.markets/S54d8/will-things-turn-publicly-ugly-betw		# Closes 2024-02-01 13:59:00. 19 bettors.
+https://manifold.markets/PatrickDelaney/will-i-be-able-to-finetune-a-1b-par		# Closes 2024-02-01 05:59:00. 12 bettors.
+https://manifold.markets/itsTomekK/january-2024-will-bitcoin-hit-70000		# Closes 2024-02-01 22:59:00. 11 bettors.
+https://manifold.markets/strutheo/will-five-nights-at-freddys-gross-m		# Closes 2024-02-01 04:59:00. 15 bettors.
+https://manifold.markets/zuuuuuuus/will-any-country-in-the-abraham-acc		# Closes 2024-01-31 22:59:00. 17 bettors.
+https://manifold.markets/DmitriyPavlov/will-any-game-other-than-cs2-be-the		# Closes 2024-02-01 22:59:00. 14 bettors.
+https://manifold.markets/kenakofer/how-will-manifold-perform-against-a		# Closes 2024-02-01 07:59:00. 14 bettors.
+https://manifold.markets/hominidan/will-beff-jezos-follower-growth-dec		# Closes 2024-01-31 22:59:00. 15 bettors.
+https://manifold.markets/johnleoks/out-of-the-34-charges-will-donald-t-4df7b6eafde4		# Closes 2024-02-01 07:59:00. 15 bettors.
+https://manifold.markets/NicoGoethals/will-the-russian-ruble-reach-an-exc-3f8f7e1c493e		# Closes 2024-02-01 22:59:00. 11 bettors.
+https://manifold.markets/MaxGhenis/will-the-us-raise-its-maximum-addit		# Closes 2024-01-31 22:59:00. 10 bettors.
+https://manifold.markets/Tetraspace/will-tetraspace-have-an-assurance-c		# Closes 2024-01-31 23:59:00. 10 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10300-monthly-a		# Closes 2024-02-01 04:59:56.395000. 10 bettors.
+https://manifold.markets/dgga/will-manifold-implement-a-liked-mar		# Closes 2024-02-01 01:00:00. 15 bettors.
+https://manifold.markets/fortenforge/will-the-vesuvius-challenge-actuall		# Closes 2024-02-01 07:59:00. 18 bettors.
+https://manifold.markets/ZZZZZZ/will-my-relative-be-scammed-out-of-343846e9b6e2		# Closes 2024-02-01 03:15:00. 14 bettors.
+https://manifold.markets/itsTomekK/will-fed-cut-rates-at-their-january		# Closes 2024-02-01 22:59:00. 14 bettors.
+https://manifold.markets/firstuserhere/will-voting-on-polls-show-up-in-the		# Closes 2024-02-01 08:00:00. 10 bettors.
+https://manifold.markets/ZO/will-brandon-sandersons-fanbase-mig		# Closes 2024-02-01 07:00:00. 20 bettors.
+https://manifold.markets/JustynaGruzovska/will-carti-drop-the-album-music-in		# Closes 2024-02-01 22:59:00. 15 bettors.
+https://manifold.markets/HamidArzani/will-world-war-iii-happen-before-20		# Closes 2024-02-01 04:59:00. 12 bettors.
+https://manifold.markets/johnleoks/out-of-the-34-charges-will-donald-t		# Closes 2024-02-01 07:59:00. 14 bettors.
+https://manifold.markets/RobertDakers/will-a-member-of-rishi-sunaks-cabin		# Closes 2024-01-31 23:59:00. 10 bettors.
+https://manifold.markets/Ernie/a-ai-image-generation-model-which-d		# Closes 2024-02-01 07:59:00. 15 bettors.
+https://manifold.markets/Predictor/musk-vs-zuckerberg-will-it-break-pp		# Closes 2024-02-01 04:59:00. 10 bettors.
+https://manifold.markets/DavidGreenberg/will-x-twitter-lose-at-least-75-mil		# Closes 2024-02-01 04:59:00. 14 bettors.
+https://manifold.markets/marktwse/will-netflix-acquire-baldurs-gate-i		# Closes 2024-01-31 22:59:00. 11 bettors.
+https://manifold.markets/Soli/will-tal-broda-be-fired-or-demoted		# Closes 2024-01-31 22:59:00. 19 bettors.
+https://manifold.markets/Ernie/will-the-sp-500-increase-by-over-10-9bd97724fe14		# Closes 2024-02-01 07:59:00. 11 bettors.
+https://manifold.markets/firstuserhere/will-manifold-reduce-the-subsidy-ta		# Closes 2024-02-01 08:00:00. 16 bettors.
+https://manifold.markets/Agh/melina-comes-on-destinys-stream-bef		# Closes 2024-02-01 22:59:00. 10 bettors.
+https://manifold.markets/PunishedFurry/will-vaush-reach-473k-subs-on-his-m		# Closes 2024-02-01 08:00:00. 10 bettors.
+https://manifold.markets/CollectedOverSpread/will-i-hold-any-shares-in-stale-mar		# Closes 2024-02-01 00:00:00. 14 bettors.
+https://manifold.markets/CellVendetta/will-the-finals-achieve-100k-concur		# Closes 2024-01-31 23:59:00. 15 bettors.
+https://manifold.markets/marktwse/will-eu-approve-50-billion-aid-pack		# Closes 2024-02-01 22:59:00. 17 bettors.
+https://manifold.markets/NicoGoethals/will-the-russian-ruble-reach-an-exc-2185db109636		# Closes 2024-02-01 22:59:00. 10 bettors.
+https://manifold.markets/Tetraspace/will-manifold-start-collating-email		# Closes 2024-02-01 23:59:00. 15 bettors.
+https://manifold.markets/harding/will-kilauea-erupt-in-january-2024		# Closes 2024-02-01 09:59:00. 20 bettors.
+https://manifold.markets/FoxBot/will-president-biden-still-be-a-can		# Closes 2024-01-31 22:30:00. 18 bettors.
+https://manifold.markets/BlueDragon/will-there-be-snow-on-the-ground-in		# Closes 2024-02-01 07:59:00. 18 bettors.
+https://manifold.markets/SavioMak/will-i-be-able-to-gain-pp-in-osulaz-863ff8e35e38		# Closes 2024-01-31 15:59:00. 15 bettors.
+https://manifold.markets/MiguelGoncalves/will-akainu-fight-luffy		# Closes 2024-01-31 23:59:00. 10 bettors.
+https://manifold.markets/HerbertSlobodow/if-mark-zuckerberg-and-elon-musk-fi		# Closes 2024-02-01 06:59:00. 11 bettors.
+https://manifold.markets/dgga/will-it-be-revealed-by-feb-that-des		# Closes 2024-02-01 21:59:00. 19 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1400-worth-of-ma		# Closes 2024-02-01 04:59:56.395000. 16 bettors.
+https://manifold.markets/GeorgeVii/does-nishad-singh-get-4-years-sente		# Closes 2024-01-31 23:59:00. 14 bettors.
+https://manifold.markets/johnleoks/out-of-the-34-charges-will-donald-t-253b0a22f7a8		# Closes 2024-02-01 07:59:00. 12 bettors.
+https://manifold.markets/itsTomekK/economy-2023-prime-age-employmentpo		# Closes 2024-01-31 22:59:00. 15 bettors.
+https://manifold.markets/NicoGoethals/will-the-russian-ruble-reach-an-exc-27b2a4a0681e		# Closes 2024-02-01 22:59:00. 20 bettors.
+https://manifold.markets/DominicAdLeisure/will-rick-and-mortys-justin-roiland		# Closes 2024-01-31 22:59:00. 11 bettors.
+https://manifold.markets/mint/will-lloyd-austin-be-fired-in-janua		# Closes 2024-02-01 04:59:00. 16 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1800-worth-of-ma-b181e0316814		# Closes 2024-02-01 04:59:56.395000. 20 bettors.
+https://manifold.markets/Haws/will-the-daily-sp-question-resolve-f24f4aa6c73b		# Closes 2024-02-01 04:59:00. 12 bettors.
+https://manifold.markets/bohaska/will-conor-gallagher-be-transferred		# Closes 2024-02-02 15:59:00. 18 bettors.
+https://manifold.markets/GuyCohen/will-joe-biden-regain-the-realclear-bbedc6828360		# Closes 2024-02-02 04:59:00. 17 bettors.
+https://manifold.markets/AmmonLam/will-sp-500-price-drop-below-4500-b		# Closes 2024-02-02 04:59:00. 10 bettors.
+https://manifold.markets/HedShock/will-the-chatgpt-plus-user-experien		# Closes 2024-02-02 07:59:00. 15 bettors.
+https://manifold.markets/IsaacKing/will-i-have-a-good-way-to-sandbox-a		# Closes 2024-02-02 04:59:00. 13 bettors.
+https://manifold.markets/YewNevano/will-the-release-of-bitcoin-etfs-in-a59ef2f11937		# Closes 2024-02-02 07:59:00. 20 bettors.
+https://manifold.markets/Lawdog/will-the-federal-government-be-shut		# Closes 2024-02-02 04:59:00. 18 bettors.
+https://manifold.markets/Ernie/will-sam-altman-and-greg-brockman-b		# Closes 2024-02-02 07:59:00. 12 bettors.
+https://manifold.markets/Hibakusja/will-i-get-coal-for-christmas		# Closes 2024-02-02 21:59:00. 11 bettors.
+https://manifold.markets/AmmonLam/will-the-bitcoin-price-drop-below-3-17c5ad6f021c		# Closes 2024-02-02 04:59:00. 15 bettors.
+https://manifold.markets/AmmonLam/will-sp-500-price-surpass-5000-befo		# Closes 2024-02-02 04:59:00. 10 bettors.
+https://manifold.markets/nmehndir/polymarket-zvbear-arrested-before-f		# Closes 2024-02-02 07:59:00. 14 bettors.
+https://manifold.markets/ChrisL5683/will-wish-gross-more-than-the-combi		# Closes 2024-02-02 04:59:00. 14 bettors.
+https://manifold.markets/MicahCohen/will-michelle-obama-hold-a-politica		# Closes 2024-02-02 07:59:00. 13 bettors.
+https://manifold.markets/Ernie/will-sam-altman-be-confirmed-to-hav		# Closes 2024-02-02 05:59:00. 11 bettors.
+https://manifold.markets/IsaacKing/will-manifold-implement-any-more-si		# Closes 2024-02-02 07:59:00. 15 bettors.
+https://manifold.markets/DaveHawley/will-china-invade-taiwan-before-feb		# Closes 2024-02-02 07:59:00. 20 bettors.
+https://manifold.markets/MartinRandall/will-manifold-do-something-for-grou-12221f200c0c		# Closes 2024-02-02 04:59:00. 20 bettors.
+https://manifold.markets/0xd34db33f/will-i-get-into-at-least-one-of-the		# Closes 2024-02-02 04:59:00. 14 bettors.
+https://manifold.markets/sylv/will-global-co2-fall-on-any-day-in		# Closes 2024-02-02 06:59:00. 17 bettors.
+https://manifold.markets/Seeker/will-destiny-reach-800k-subscribers		# Closes 2024-02-02 18:29:00. 17 bettors.
+https://manifold.markets/KayacanKestel/do-data-engineering-jobs-disappear		# Closes 2024-02-02 20:59:00. 12 bettors.
+https://manifold.markets/IsaacKing/should-you-infer-in-the-lottery-sni		# Closes 2024-02-02 04:59:00. 16 bettors.
+https://manifold.markets/IsaacKing/will-judge-academy-still-exist-in-j		# Closes 2024-02-02 07:59:00. 11 bettors.
+https://manifold.markets/PunishedFurry/will-kelly-jean-appear-on-jstlks-st		# Closes 2024-02-02 07:59:00. 16 bettors.
+https://manifold.markets/IsaacKing/will-the-manifold-api-be-fast-befor		# Closes 2024-02-02 07:59:00. 12 bettors.
+https://manifold.markets/bwr/will-at-least-half-of-my-terrarium		# Closes 2024-02-02 07:59:00. 14 bettors.
+https://manifold.markets/Kaleem/will-ivan-tony-remain-at-brentford		# Closes 2024-02-02 04:59:00. 18 bettors.
+https://manifold.markets/Ernie/openai-is-closed-by-feb-1-2024		# Closes 2024-02-02 07:59:00. 14 bettors.
+https://manifold.markets/clairebookworm/will-i-survive-not-fail-my-caffeine		# Closes 2024-02-02 04:59:00. 19 bettors.
+https://manifold.markets/MarcusAbramovitch/will-salah-join-a-saudi-club-next-t		# Closes 2024-02-02 04:59:00. 10 bettors.
+https://manifold.markets/Adamlp/the-yesno-of-question-linked-in-the		# Closes 2024-02-02 04:59:00. 15 bettors.
+https://manifold.markets/ZviMowshowitz/will-zvi-write-a-second-2024-predic		# Closes 2024-02-02 04:59:00. 11 bettors.
+https://manifold.markets/SpeaksForTrees/will-the-january-unemployment-rate		# Closes 2024-02-02 04:59:00. 18 bettors.
+https://manifold.markets/AmmonLam/will-destiny-and-ben-shapiros-debat-87637e91c4a3		# Closes 2024-02-02 05:59:00. 17 bettors.
+https://manifold.markets/AlexanderWang/will-i-be-in-school-for-the-entire		# Closes 2024-02-02 04:59:00. 12 bettors.
+https://manifold.markets/Boklam/will-anyone-that-we-know-of-be-canc		# Closes 2024-02-02 07:59:00. 15 bettors.
+https://manifold.markets/AmmonLam/will-destiny-and-ben-shapiros-debat-381e659afefe		# Closes 2024-02-02 05:59:00. 20 bettors.
+https://manifold.markets/Ernie/midjourney-can-add-by-feb-1-2024		# Closes 2024-02-02 07:59:00. 10 bettors.
+https://manifold.markets/EmilyThomas/will-mira-make-a-better-sudoku-prom		# Closes 2024-02-02 12:59:00. 10 bettors.
+https://manifold.markets/ww/will-william-ask-somebody-out-by-fe		# Closes 2024-02-02 07:59:00. 17 bettors.
+https://manifold.markets/KayacanKestel/will-any-cryptocurrency-surpass-eth		# Closes 2024-02-02 20:59:00. 10 bettors.
+https://manifold.markets/SabarishGopalakrishnan/will-we-see-a-snow-storm-depositing		# Closes 2024-02-02 04:59:00. 19 bettors.
+https://manifold.markets/ZZZZZZ/will-openai-make-a-plagiarism-detec		# Closes 2024-02-03 00:16:00. 13 bettors.
+https://manifold.markets/barak/will-manifold-successfully-crowdfun		# Closes 2024-02-03 07:59:00. 12 bettors.
+https://manifold.markets/Tripping/will-more-than-a-third-of-the-2023		# Closes 2024-02-03 11:32:00. 13 bettors.
+https://manifold.markets/acouturi7/rfk-jr-will-appear-in-at-least-one		# Closes 2024-02-03 04:59:00. 10 bettors.
+https://manifold.markets/acouturi7/rfk-jr-will-win-at-least-20-of-the		# Closes 2024-02-03 04:59:00. 11 bettors.
+https://manifold.markets/jcb/will-midnights-win-album-of-the-yea		# Closes 2024-02-03 14:17:00. 18 bettors.
+https://manifold.markets/NathanLee/will-israel-continue-the-war-into-f		# Closes 2024-02-03 07:59:00. 12 bettors.
+https://manifold.markets/ezpotd/estimate-the-ratio-of-aime-question		# Closes 2024-02-03 04:59:00. 10 bettors.
+https://manifold.markets/yourface348/will-skibiti-toilet-72-come-out-bef		# Closes 2024-02-03 07:59:00. 10 bettors.
+https://manifold.markets/d/will-the-dow-jones-industrial-avera-e5d87306c9fd		# Closes 2024-02-03 02:59:00. 17 bettors.
+https://manifold.markets/JohnSmith9249/will-there-be-a-peaceful-transfer-o		# Closes 2024-02-03 07:59:00. 12 bettors.
+https://manifold.markets/RemNi/will-the-agi-fire-alarm-alert-level-ae18122806b8		# Closes 2024-02-03 22:59:00. 15 bettors.
+https://manifold.markets/MasonNagle/will-ja-ever-poster-victor-wembyana		# Closes 2024-02-04 04:59:00. 11 bettors.
+https://manifold.markets/GabrielPadrino/will-be-a-davy-back-fight-in-the-fi		# Closes 2024-02-04 03:59:00. 12 bettors.
+https://manifold.markets/MichaeldelaMaza/grayscale-bitcoin-trust-gbtc-will-h		# Closes 2024-02-04 04:59:00. 10 bettors.
+https://manifold.markets/Futurista/what-nations-become-the-new-startup		# Closes 2024-02-04 04:59:00. 18 bettors.
+https://manifold.markets/Annabelle/will-another-car-land-on-the-roof-a		# Closes 2024-02-04 04:59:00. 19 bettors.
+https://manifold.markets/Fion/will-manifold-make-leagues-cohorts		# Closes 2024-02-05 23:59:00. 16 bettors.
+https://manifold.markets/DanielIndy/will-a-team-whose-mascot-is-an-anim		# Closes 2024-02-05 06:59:00. 16 bettors.
+https://manifold.markets/Conflux/will-proof-school-be-in-the-top-50		# Closes 2024-02-05 04:59:00. 18 bettors.
+https://manifold.markets/god_is_an_alien/should-making-memes-be-added-to-the		# Closes 2024-02-06 06:59:00. 15 bettors.
+https://manifold.markets/MP/muskowitz-prediction-threads-has-mo		# Closes 2024-02-06 02:59:00. 13 bettors.
+https://manifold.markets/mirrorbot/kalshi-will-the-government-be-shut-69e8b03d5d3a		# Closes 2024-02-06 15:00:00. 12 bettors.
+https://manifold.markets/EstMtz/will-royal-caribbeans-new-cruise-sh		# Closes 2024-02-06 06:59:00. 12 bettors.
+https://manifold.markets/Panfilo/will-persona-3-reload-have-a-metacr		# Closes 2024-02-06 04:59:00. 17 bettors.
+https://manifold.markets/DeepanshuSharma/is-usopp-gonna-get-a-power-up-in-eg		# Closes 2024-02-06 18:29:00. 10 bettors.
+https://manifold.markets/FoxBot/will-president-biden-participate-in		# Closes 2024-02-06 22:30:00. 13 bettors.
+https://manifold.markets/RemNi/will-gpt5-be-released-before-feb-20-8c957783cf35		# Closes 2024-02-06 22:59:00. 12 bettors.
+https://manifold.markets/11235813/will-the-las-vegas-sphere-go-bankru		# Closes 2024-02-07 23:59:00. 14 bettors.
+https://manifold.markets/ampdot/will-tetraspace-receive-a-grant-to		# Closes 2024-02-07 23:59:00. 15 bettors.
+https://manifold.markets/c0m/will-january-2024-be-the-hottest-ja-b65917cf8b96		# Closes 2024-02-07 23:59:00. 15 bettors.
+https://manifold.markets/JeffreyWang2a31/will-damar-hamlin-win-comeback-play		# Closes 2024-02-08 04:59:00. 12 bettors.
+https://manifold.markets/TeddyWeverka/will-ford-q4-2023-gross-profit-exce		# Closes 2024-02-08 06:59:00. 15 bettors.
+https://manifold.markets/CellVendetta/will-baldurs-gate-iii-achieve-300k		# Closes 2024-01-31 23:59:00. 21 bettors.
+https://manifold.markets/itsTomekK/will-putins-approval-in-russia-fall-164a6b6812d4		# Closes 2024-01-31 22:59:00. 21 bettors.
+https://manifold.markets/BTE/will-israel-seize-the-gaza-border-c		# Closes 2024-02-01 04:59:00. 21 bettors.
+https://manifold.markets/DismalScientist/will-greg-abbott-endorse-ron-desant		# Closes 2024-01-31 23:59:00. 21 bettors.
+https://manifold.markets/MikhaFischler/will-i-conclude-that-sam-altman-bei		# Closes 2024-02-01 07:59:00. 21 bettors.
+https://manifold.markets/Odoacre/will-the-most-sold-car-model-in-202		# Closes 2024-01-31 12:59:00. 21 bettors.
+https://manifold.markets/IsaacKing/if-firstuserhere-walks-100000-steps		# Closes 2024-02-02 07:59:00. 21 bettors.
+https://manifold.markets/SEE/will-joe-biden-still-be-alive-on-fe		# Closes 2024-02-02 06:59:00. 21 bettors.
+https://manifold.markets/Shump/will-manifold-stop-nudging-people-t		# Closes 2024-02-02 04:59:00. 21 bettors.
+https://manifold.markets/Nils/will-anthropic-and-openai-merge-at		# Closes 2024-02-02 07:59:00. 21 bettors.
+https://manifold.markets/Conflux/will-fivethirtyeight-publish-a-2024-652e6f6dc52c		# Closes 2024-02-06 07:59:00. 21 bettors.
+https://manifold.markets/DismalScientist/will-global-growth-be-above-the-imf		# Closes 2024-01-31 23:59:00. 22 bettors.
+https://manifold.markets/TruthSeeker/will-the-government-reveal-the-trut		# Closes 2024-02-01 04:59:00. 22 bettors.
+https://manifold.markets/ThomasDingemanse/will-even-more-classified-governmen		# Closes 2024-01-31 23:00:00. 22 bettors.
+https://manifold.markets/CourierSix/will-kylian-mbappe-be-a-manchester		# Closes 2024-02-01 01:00:00. 22 bettors.
+https://manifold.markets/Conflux/will-manifold-restore-automatic-loa		# Closes 2024-02-01 07:59:00. 22 bettors.
+https://manifold.markets/ParadoxRain/will-twitter-x-drop-out-of-the-top		# Closes 2024-02-01 07:59:00. 22 bettors.
+https://manifold.markets/AmmonLam/will-the-sp-500-be-above-5000-at-th-261e96eeddb0		# Closes 2024-02-02 04:59:00. 22 bettors.
+https://manifold.markets/acouturi7/will-any-government-officially-conf		# Closes 2024-02-03 04:59:00. 22 bettors.
+https://manifold.markets/BTE/will-i-bte-finish-in-the-top-5-of-t		# Closes 2024-02-01 04:59:00. 23 bettors.
+https://manifold.markets/ItsMe/will-the-ai-movie-market-reach-25-f		# Closes 2024-02-01 04:59:00. 23 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1400-worth-of-ma-17cf65ee3819		# Closes 2024-02-01 04:59:56.395000. 23 bettors.
+https://manifold.markets/TamayBesiroglu/will-sally-kornbluth-resign-as-pres		# Closes 2024-02-01 22:59:00. 23 bettors.
+https://manifold.markets/IsaacKing/does-there-exist-a-serious-argument		# Closes 2024-02-02 04:59:00. 23 bettors.
+https://manifold.markets/pearagon/will-destiny-be-unbanned-on-twitch		# Closes 2024-02-02 07:59:00. 23 bettors.
+https://manifold.markets/BTE/will-i-bte-win-the-2023-metaculus-a		# Closes 2024-02-01 04:59:00. 24 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1300-worth-of-ma		# Closes 2024-02-01 04:59:56.395000. 24 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1500-worth-of-ma-f31f8cf9f5f4		# Closes 2024-02-01 04:59:56.395000. 24 bettors.
+https://manifold.markets/Peepo/will-the-strawhats-be-able-to-escap		# Closes 2024-01-31 16:59:00. 24 bettors.
+https://manifold.markets/patricioruzak/will-skibidi-toilet-71-come-out-bef		# Closes 2024-02-04 02:59:00. 24 bettors.
+https://manifold.markets/NunoFigueira/will-travis-scott-win-a-grammy-for		# Closes 2024-02-05 23:59:00. 24 bettors.
+https://manifold.markets/EduardVasile/will-an-asteroid-impact-occur-on-ju		# Closes 2024-01-31 21:59:00. 25 bettors.
+https://manifold.markets/MiraBot/will-mira-produce-a-yesqualifying-s		# Closes 2024-02-01 07:59:00. 25 bettors.
+https://manifold.markets/strutheo/will-at-least-3-of-the-following-ev-55dca18702e7		# Closes 2024-02-02 04:59:00. 25 bettors.
+https://manifold.markets/SEE/will-donald-trump-still-be-alive-on-227137c3a2db		# Closes 2024-02-02 06:59:00. 25 bettors.
+https://manifold.markets/flexadecimal/will-the-temperature-on-any-day-in-e99aff06bc03		# Closes 2024-02-07 07:59:00. 25 bettors.
+https://manifold.markets/ZZZZZZ/will-my-relative-be-scammed-out-of-021597ae4c22		# Closes 2024-02-01 03:15:00. 26 bettors.
+https://manifold.markets/DanMan314/will-bte-pay-back-my-15k-mana-loan		# Closes 2024-02-01 07:59:00. 26 bettors.
+https://manifold.markets/Haws/does-manifold-believe-in-aliens		# Closes 2024-02-01 04:59:00. 26 bettors.
+https://manifold.markets/nickten/will-at-least-1-of-these-cities-be-f6e4b8c99cea		# Closes 2024-01-31 20:00:00. 26 bettors.
+https://manifold.markets/FrankfurtSchool/will-frankfurt-still-be-a-viable-co		# Closes 2024-01-31 09:00:00. 26 bettors.
+https://manifold.markets/Issc/will-twitter-x-no-longer-be-availab		# Closes 2024-02-01 07:59:00. 26 bettors.
+https://manifold.markets/AdamK/will-texas-experience-a-severe-outa		# Closes 2024-02-02 07:59:00. 26 bettors.
+https://manifold.markets/JesusDeSivar/will-nayib-bukele-win-el-salvadors		# Closes 2024-02-04 23:00:00. 26 bettors.
+https://manifold.markets/ZanyEconomist/will-manifold-outperform-metaculus		# Closes 2024-01-31 23:59:00. 27 bettors.
+https://manifold.markets/MarcusAbramovitch/will-there-be-a-greater-than-10-dro		# Closes 2024-02-02 04:59:00. 27 bettors.
+https://manifold.markets/jackhrt/us-district-judge-will-issue-a-ruli		# Closes 2024-02-02 04:59:00. 27 bettors.
+https://manifold.markets/Karl/will-iran-engage-in-direct-military		# Closes 2024-02-03 05:59:00. 27 bettors.
+https://manifold.markets/Haws/are-the-majority-of-manifold-voters		# Closes 2024-02-01 04:59:00. 28 bettors.
+https://manifold.markets/bitSanjay/will-bitcoin-hit-30k-in-jan-2024		# Closes 2024-02-01 07:59:00. 28 bettors.
+https://manifold.markets/OlegEterevsky/will-ukraine-issue-a-mobilization-o		# Closes 2024-02-01 22:59:00. 28 bettors.
+https://manifold.markets/StevenYang/will-meta-facebook-report-any-earni		# Closes 2024-02-02 00:56:00. 28 bettors.
+https://manifold.markets/Predictor/will-jimmy-carter-survive-groundhog		# Closes 2024-02-03 04:59:00. 28 bettors.
+https://manifold.markets/nuclearD/will-the-removal-of-trump-on-the-co		# Closes 2024-02-08 06:59:00. 28 bettors.
+https://manifold.markets/galaga/is-hollow-knight-silksong-a-prequel		# Closes 2024-02-01 23:59:00. 29 bettors.
+https://manifold.markets/CourierSix/will-kylian-mbappe-sign-for-a-engli		# Closes 2024-02-01 01:00:00. 29 bettors.
+https://manifold.markets/ZviMowshowitz/if-joe-biden-runs-for-president-in		# Closes 2024-02-02 04:59:00. 29 bettors.
+https://manifold.markets/NathanDickson/will-the-fed-lower-interest-rates-i		# Closes 2024-02-02 06:59:00. 29 bettors.
+https://manifold.markets/acouturi7/will-joe-biden-and-donald-trump-ass		# Closes 2024-02-03 04:59:00. 29 bettors.
+https://manifold.markets/acouturi7/has-earth-ever-been-visited-by-nonh		# Closes 2024-02-03 04:59:00. 29 bettors.
+https://manifold.markets/wamberzX/will-palworld-early-access-have-a-v		# Closes 2024-02-01 04:59:00. 30 bettors.
+https://manifold.markets/Soli/will-amazon-and-google-together-lay		# Closes 2024-01-31 22:59:00. 30 bettors.
+https://manifold.markets/DrewRukavina/will-there-be-a-major-terrorist-att		# Closes 2024-02-02 05:59:00. 30 bettors.
+https://manifold.markets/Arch1e/will-kanye-ye-west-release-any-albu		# Closes 2024-01-31 23:59:00. 31 bettors.
+https://manifold.markets/matthiusfrost/will-democrats-win-back-ny3-george		# Closes 2024-01-31 16:59:00. 31 bettors.
+https://manifold.markets/MattP/will-rfk-jr-win-delegates-from-new		# Closes 2024-02-05 23:59:00. 31 bettors.
+https://manifold.markets/pranav/will-llm-hallucinations-be-down-to		# Closes 2024-02-01 07:59:00. 32 bettors.
+https://manifold.markets/NicoGoethals/will-the-russian-ruble-reach-an-exc-e72c35638e95		# Closes 2024-02-01 22:59:00. 32 bettors.
+https://manifold.markets/subooferbot/will-this-bot-be-overall-profitable		# Closes 2024-02-01 04:59:00. 33 bettors.
+https://manifold.markets/pkpr/will-palworld-be-dead-in-2-weeks		# Closes 2024-02-05 05:59:00. 33 bettors.
+https://manifold.markets/NFL/will-any-player-get-injured-partici		# Closes 2024-02-05 04:59:00. 33 bettors.
+https://manifold.markets/CalisuriofTORn/will-wonka-2023-gross-200m-or-more		# Closes 2024-02-02 04:59:00. 34 bettors.
+https://manifold.markets/seven/will-roblox-go-down-within-the-next		# Closes 2024-01-31 22:59:00. 35 bettors.
+https://manifold.markets/grofigaszadosijv/will-apple-stock-recover-by-februar		# Closes 2024-02-02 07:59:00. 35 bettors.
+https://manifold.markets/PunishedFurry/will-vaush-reach-472k-subs-on-his-m		# Closes 2024-02-01 08:00:00. 36 bettors.
+https://manifold.markets/DevonLambert/will-the-sp-500-close-positive-for		# Closes 2024-01-31 20:00:00. 37 bettors.
+https://manifold.markets/JamesGrugett/will-pete-buttigieg-run-for-preside		# Closes 2024-02-02 05:59:00. 37 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10000-monthly-a-b0fc41bd0bb7		# Closes 2024-02-01 04:59:56.395000. 38 bettors.
+https://manifold.markets/ZanyEconomist/will-superforecasters-aggregated-ou		# Closes 2024-01-31 23:59:00. 38 bettors.
+https://manifold.markets/NFL/will-mt-bank-stadium-set-a-new-nois		# Closes 2024-02-01 04:59:00. 38 bettors.
+https://manifold.markets/marktwse/nintendo-direct-happening-this-janu		# Closes 2024-02-01 22:59:00. 38 bettors.
+https://manifold.markets/IsaacKing/will-anyone-have-had-sex-with-aella		# Closes 2024-02-02 07:59:00. 38 bettors.
+https://manifold.markets/EzraBrodey/wil-russia-capture-avdiivka-by-feb		# Closes 2024-02-03 04:59:00. 38 bettors.
+https://manifold.markets/Ernie/will-the-sp-500-increase-by-over-3-5f664a467ff5		# Closes 2024-02-02 07:59:00. 39 bettors.
+https://manifold.markets/deagol/will-apple-stock-aapl-hit-200-befor		# Closes 2024-02-03 04:59:00. 39 bettors.
+https://manifold.markets/MRN267/will-the-sp500-increase-mom-in-jan		# Closes 2024-01-31 20:55:00. 40 bettors.
+https://manifold.markets/PunishedFurry/will-farha-be-seen-or-heard-in-pers		# Closes 2024-02-01 08:00:00. 40 bettors.
+https://manifold.markets/DeathByTech/will-russia-control-krynky-by-the-e		# Closes 2024-02-01 04:59:00. 41 bettors.
+https://manifold.markets/MP/will-microsoft-announce-that-it-is		# Closes 2024-02-01 02:54:00. 41 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1300-worth-of-ma-35ef1cc7e564		# Closes 2024-02-01 04:59:56.395000. 41 bettors.
+https://manifold.markets/Conflux/will-fivethirtyeight-publish-a-2024		# Closes 2024-02-06 07:59:00. 41 bettors.
+https://manifold.markets/FrankfurtSchool/will-openai-launch-gpt45-before-feb		# Closes 2024-01-31 22:59:59. 42 bettors.
+https://manifold.markets/NFL/will-jimmy-kimmel-sue-aaron-rodgers		# Closes 2024-02-01 04:59:00. 43 bettors.
+https://manifold.markets/Agh/will-destiny-release-the-first-epis		# Closes 2024-02-01 22:59:00. 44 bettors.
+https://manifold.markets/probably/will-at-least-one-more-hostage-held		# Closes 2024-01-31 15:45:00. 46 bettors.
+https://manifold.markets/Domer/will-the-united-states-congress-pas		# Closes 2024-02-01 04:59:00. 46 bettors.
+https://manifold.markets/DanielFilan/on-feb-1-2024-will-i-believe-that-o		# Closes 2024-02-02 07:59:00. 47 bettors.
+https://manifold.markets/KrishPatel/will-donald-trump-be-the-republican-d8de4615e308		# Closes 2024-02-02 04:59:00. 48 bettors.
+https://manifold.markets/JJL/will-there-be-a-partial-or-full-us		# Closes 2024-02-01 04:59:00. 50 bettors.
+https://manifold.markets/SirCryptomind/will-googles-gemini-ultra-llm-be-re-dea7432db3f2		# Closes 2024-02-01 04:59:00. 52 bettors.
+https://manifold.markets/Soli/is-the-ai-winter-break-hypothesis-o		# Closes 2024-01-31 22:59:00. 56 bettors.
+https://manifold.markets/LUCATheory/will-there-be-a-confirmed-discovery		# Closes 2024-02-01 04:59:00. 57 bettors.
+https://manifold.markets/MP/will-evidence-emerge-that-manifold		# Closes 2024-02-01 02:59:00. 58 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1500-worth-of-ma		# Closes 2024-02-01 04:59:56.395000. 58 bettors.
+https://manifold.markets/xyz/will-israel-still-be-ranked-free-by		# Closes 2024-02-01 04:59:00. 58 bettors.
+https://manifold.markets/bitSanjay/will-bitcoin-hit-35k-in-jan-2024		# Closes 2024-02-01 07:59:00. 60 bettors.
+https://manifold.markets/Ernie/will-emmett-shear-be-working-for-op		# Closes 2024-02-02 07:59:00. 61 bettors.
+https://manifold.markets/Testiecool/will-jimmy-carter-die-during-the-mo		# Closes 2024-02-01 04:59:00. 62 bettors.
+https://manifold.markets/SirCryptomind/apple-watch-sales-banned-at-the-end		# Closes 2024-02-01 04:59:00. 64 bettors.
+https://manifold.markets/toms/will-an-accredited-us-college-or-un		# Closes 2024-02-01 07:59:00. 65 bettors.
+https://manifold.markets/ThePhilosopher/will-research-in-getting-closer-to		# Closes 2024-02-04 04:59:00. 66 bettors.
+https://manifold.markets/MP/will-tesla-report-advertising-spend		# Closes 2024-02-01 06:00:00. 67 bettors.
+https://manifold.markets/Predict/will-apple-vision-pro-be-in-consume-10ab81098c24		# Closes 2024-01-31 22:59:00. 69 bettors.
+https://manifold.markets/Eye/will-saturn-fight-against-luffy-in		# Closes 2024-02-01 03:59:00. 69 bettors.
+https://manifold.markets/Rodeo/will-bard-advanced-be-launched-by-j		# Closes 2024-02-01 07:59:00. 72 bettors.
+https://manifold.markets/Shump/will-there-be-a-terrorist-attack-ta		# Closes 2024-02-01 04:59:00. 73 bettors.
+https://manifold.markets/TadasRimkevicius/will-3blue1brown-release-a-mainchan		# Closes 2024-02-01 05:59:00. 75 bettors.
+https://manifold.markets/pkpr/in-the-destiny-v-ben-shapiro-debate		# Closes 2024-02-01 05:59:00. 75 bettors.
+https://manifold.markets/IsaacKing/will-there-be-significant-social-un		# Closes 2024-02-01 08:00:00. 77 bettors.
+https://manifold.markets/Blomfilter/will-starship-launch-in-january-202		# Closes 2024-02-02 04:59:00. 78 bettors.
+https://manifold.markets/strutheo/will-nikki-haley-have-at-least-15-o-e43fd2359859		# Closes 2024-02-03 04:59:00. 78 bettors.
+https://manifold.markets/itsTomekK/january-2024-will-bitcoin-close-the		# Closes 2024-02-01 22:59:00. 79 bettors.
+https://manifold.markets/itsTomekK/will-putins-approval-in-russia-fall-f3823350d5a3		# Closes 2024-01-31 22:59:00. 81 bettors.
+https://manifold.markets/egroj/will-the-groundhog-see-its-shadow-o		# Closes 2024-02-03 04:59:00. 82 bettors.
+https://manifold.markets/strutheo/will-nikki-haley-overtake-and-lead-ece08305ab5a		# Closes 2024-02-03 04:59:00. 89 bettors.
+https://manifold.markets/QuantumObserver/will-any-quantum-computing-company		# Closes 2024-02-01 04:59:00. 90 bettors.
+https://manifold.markets/RyanGreenblatt/will-john-carmack-seriously-engage		# Closes 2024-01-31 23:59:00. 97 bettors.
+https://manifold.markets/BTE/has-tesla-been-grossly-misrepresent		# Closes 2024-02-01 04:59:00. 97 bettors.
+https://manifold.markets/c0m/will-january-2024-be-the-hottest-ja		# Closes 2024-02-07 23:59:00. 100 bettors.
+https://manifold.markets/Toby96/will-at-least-one-person-on-board-t		# Closes 2024-01-31 22:59:00. 101 bettors.
+https://manifold.markets/MiraBot/will-gpt45-be-released-in-january		# Closes 2024-02-01 07:59:00. 114 bettors.
+https://manifold.markets/CrptoYeti/will-bitcoin-reach-50000-by-212024		# Closes 2024-02-02 04:59:00. 120 bettors.
+https://manifold.markets/acouturi7/will-the-singularity-occur-by-2040		# Closes 2024-02-03 04:59:00. 129 bettors.
+https://manifold.markets/Soli/will-amazon-layoff-more-than-1000-e		# Closes 2024-01-31 22:59:00. 145 bettors.
+https://manifold.markets/deagol/will-apple-stock-aapl-fully-break-2-7e0be61add86		# Closes 2024-02-04 00:00:00. 152 bettors.
+https://manifold.markets/Akzzz123/will-ukraine-receive-f16s-by-the-en-969b6847651b		# Closes 2024-02-01 00:59:00. 154 bettors.
+https://manifold.markets/SG/will-the-vesuvius-challenge-grand-p		# Closes 2024-02-01 07:59:00. 158 bettors.
+https://manifold.markets/BTE/will-donald-trump-commit-perjury-wh		# Closes 2024-02-01 04:59:00. 253 bettors.
+https://manifold.markets/itsTomekK/january-2024-will-bitcoin-hit-50000		# Closes 2024-02-01 22:59:00. 270 bettors.
+https://manifold.markets/Soli/will-google-layoff-more-than-1000-e		# Closes 2024-01-31 22:59:00. 284 bettors.
+https://manifold.markets/YewNevano/will-bitcoin-reach-50k-by-feb-1st-2		# Closes 2024-02-02 07:59:00. 335 bettors.
+https://manifold.markets/MP/conditional-in-the-fight-between-mu		# Closes 2024-02-01 02:59:00. 349 bettors.
+https://manifold.markets/MP/will-elon-musk-and-mark-zuckerberg		# Closes 2024-02-01 02:59:00. 482 bettors.
+https://manifold.markets/Zozo001CoN/will-kenshin9000-release-a-gpt4-bas		# Closes 2024-02-01 22:59:00. 9 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10400-monthly-a-0a47a7186a87		# Closes 2024-02-01 04:59:56.395000. 9 bettors.
+https://manifold.markets/itsTomekK/2023-will-usd-m2-supply-exceed-2200		# Closes 2024-01-31 22:59:00. 9 bettors.
+https://manifold.markets/strutheo/will-the-nyc-subway-report-at-least		# Closes 2024-02-01 04:59:00. 9 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10600-monthly-a-b3bb5ca4e8d2		# Closes 2024-02-01 04:59:56.395000. 9 bettors.
+https://manifold.markets/Andropar/will-world-coin-be-over-3-at-the-en		# Closes 2024-01-31 15:01:00. 9 bettors.
+https://manifold.markets/itsTomekK/poland-will-krzysztof-bosak-stay-th		# Closes 2024-02-01 22:59:00. 9 bettors.
+https://manifold.markets/bohaska/will-people-be-able-to-find-5-insta		# Closes 2024-02-01 15:59:00. 9 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10800-monthly-a-964570e0db9e		# Closes 2024-02-01 04:59:56.395000. 9 bettors.
+https://manifold.markets/Predict/will-apple-vision-pro-be-in-availab		# Closes 2024-01-31 22:59:00. 9 bettors.
+https://manifold.markets/ShadequesterShadequester/will-nasdaq-tmc-the-metals-company		# Closes 2024-02-01 22:59:00. 9 bettors.
+https://manifold.markets/johnleoks/out-of-the-34-charges-will-donald-t-ea028c417d5a		# Closes 2024-02-01 07:59:00. 9 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10500-monthly-a-9cdba0fb57bc		# Closes 2024-02-01 04:59:56.395000. 9 bettors.
+https://manifold.markets/bitSanjay/will-another-planes-cabin-door-blow		# Closes 2024-02-01 07:59:00. 9 bettors.
+https://manifold.markets/samikki/will-helsinki-finland-average-tempe-4d1703091825		# Closes 2024-01-31 21:59:00. 9 bettors.
+https://manifold.markets/A0/will-ron-desantis-get-the-prolife-e		# Closes 2024-02-01 07:59:00. 9 bettors.
+https://manifold.markets/johnleoks/out-of-the-34-charges-will-donald-t-5023b217c34b		# Closes 2024-02-01 07:59:00. 9 bettors.
+https://manifold.markets/quantizor/will-starship-from-ift3-survive		# Closes 2024-02-01 04:59:00. 9 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-10000-worth-of-m		# Closes 2024-02-01 04:59:56.395000. 9 bettors.
+https://manifold.markets/Ernie/will-the-sp-500-increase-by-over-10-a22d072eecdf		# Closes 2024-02-01 07:59:00. 9 bettors.
+https://manifold.markets/RemiRampin/will-manifold-implement-a-feature-t-fd4ce59d07f2		# Closes 2024-02-01 04:59:00. 9 bettors.
+https://manifold.markets/TrappedMouse/will-there-be-a-hurricane-in-januar		# Closes 2024-01-31 22:59:00. 9 bettors.
+https://manifold.markets/BTE/will-abrams-tanks-be-deployed-in-co-ff0aaaf328ef		# Closes 2024-02-02 04:59:00. 9 bettors.
+https://manifold.markets/Ernie/will-kyle-vogt-be-working-for-opena		# Closes 2024-02-02 07:59:00. 9 bettors.
+https://manifold.markets/WilliamHoward/will-more-than-m500k-worth-of-mana		# Closes 2024-02-02 23:59:00. 9 bettors.
+https://manifold.markets/DanielFilan/is-sam-altman-actually-currently-in		# Closes 2024-02-02 07:59:00. 9 bettors.
+https://manifold.markets/AdamK/plausible-open-source-implementatio		# Closes 2024-02-02 07:59:00. 9 bettors.
+https://manifold.markets/Ernie/will-manifold-add-multiple-choice-w-5e185f28d135		# Closes 2024-02-02 07:59:00. 9 bettors.
+https://manifold.markets/EzekielCochrane/will-mo-salah-still-be-playing-for		# Closes 2024-02-03 04:59:00. 9 bettors.
+https://manifold.markets/RS/will-kieran-trippier-still-be-at-ne		# Closes 2024-02-03 23:59:00. 9 bettors.
+https://manifold.markets/mattyb/will-disney-percy-jackson-season-1		# Closes 2024-02-08 07:59:00. 9 bettors.
+https://manifold.markets/Imhotep/did-aliens-build-the-pyramids		# Closes 2024-02-01 05:59:00. 8 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1600-worth-of-ma-243404cbe1c4		# Closes 2024-02-01 04:59:56.395000. 8 bettors.
+https://manifold.markets/HakanKarlsson/will-romina-pourmokhtari-still-be-t		# Closes 2024-02-01 22:59:00. 8 bettors.
+https://manifold.markets/KellyAllan/will-donald-trump-indicate-publicly		# Closes 2024-02-01 04:59:00. 8 bettors.
+https://manifold.markets/SheikhAbdurRaheemAli/will-openai-increase-the-chatgpt-pl		# Closes 2024-02-01 04:59:00. 8 bettors.
+https://manifold.markets/BenjaminIkuta/will-a-cfpb-complaint-cause-bank-of		# Closes 2024-01-31 21:59:00. 8 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10200-monthly-a-3e5bb8381b86		# Closes 2024-02-01 04:59:56.395000. 8 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1900-worth-of-ma		# Closes 2024-02-01 04:59:56.395000. 8 bettors.
+https://manifold.markets/marktwse/willsourcehut-say-who-ddosed-them-t		# Closes 2024-01-31 22:59:00. 8 bettors.
+https://manifold.markets/NickWolf/at-least-10-people-from-lw-melbourn		# Closes 2024-01-31 12:59:00. 8 bettors.
+https://manifold.markets/ZanyEconomist/will-the-aggregated-blind-mode-pred		# Closes 2024-01-31 23:59:00. 8 bettors.
+https://manifold.markets/RichardBeech/will-hbar-break-over-012-before-131		# Closes 2024-02-01 05:59:00. 8 bettors.
+https://manifold.markets/Cactus/minimum-monthly-google-search-engin		# Closes 2024-02-01 07:59:00. 8 bettors.
+https://manifold.markets/MartinRandall/will-enrique-tarrio-receive-a-presi		# Closes 2024-02-01 04:59:00. 8 bettors.
+https://manifold.markets/ArcadiG/will-valery-gerasimov-the-chief-of		# Closes 2024-02-02 04:59:00. 8 bettors.
+https://manifold.markets/DarrenSpencer/will-aaron-ramsdale-leave-arsenal-d		# Closes 2024-02-02 07:59:00. 8 bettors.
+https://manifold.markets/calm/will-xcel-energy-be-found-liable-fo		# Closes 2024-02-02 06:59:00. 8 bettors.
+https://manifold.markets/Joshua/what-will-be-the-initial-metaculus		# Closes 2024-02-03 07:59:00. 8 bettors.
+https://manifold.markets/mattyb/-vs-will-ferrari-2023-have-a-larger		# Closes 2024-02-03 07:59:00. 8 bettors.
+https://manifold.markets/AmmonLam/will-bitcoin-price-surpass-43000-be		# Closes 2024-02-03 04:59:00. 8 bettors.
+https://manifold.markets/marktwse/will-there-be-another-100000-demo-a		# Closes 2024-02-04 22:59:00. 8 bettors.
+https://manifold.markets/itsTomekK/spotify-in-january-2024-taylor-swif		# Closes 2024-02-05 22:59:00. 8 bettors.
+https://manifold.markets/Futurista/will-elon-be-revealed-to-be-funding		# Closes 2024-02-05 04:59:00. 8 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-make-2-or-more-tweet-4e5a94523e94		# Closes 2024-02-06 04:59:49.950000. 8 bettors.
+https://manifold.markets/ThePhilosopher/will-ai-be-able-to-generate-a-sudok		# Closes 2024-02-07 04:59:00. 8 bettors.
+https://manifold.markets/StoicaMihneaTeodor/will-minecraft-release-version-121		# Closes 2024-01-31 21:59:00. 7 bettors.
+https://manifold.markets/Lorxus/will-lorxus-get-a-job-offer-from-at		# Closes 2024-02-01 04:59:00. 7 bettors.
+https://manifold.markets/bohaska/will-anyone-be-able-to-create-an-el		# Closes 2024-02-01 15:59:00. 7 bettors.
+https://manifold.markets/TrickyDuck/will-somalilands-military-retake-th		# Closes 2024-02-01 04:59:00. 7 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1800-worth-of-ma		# Closes 2024-02-01 04:59:56.395000. 7 bettors.
+https://manifold.markets/AWholeTurkey/will-i-make-i-make-it-to-platinum-r		# Closes 2024-02-01 07:59:00. 7 bettors.
+https://manifold.markets/AndyR/by-feb-2024-will-the-policy-change		# Closes 2024-02-01 23:59:00. 7 bettors.
+https://manifold.markets/ClubmasterTransparent/a-security-exists-alameda-shares-in		# Closes 2024-02-01 07:59:00. 7 bettors.
+https://manifold.markets/CarsonGale/will-i-beat-lindsay-in-a-4-mile-rac		# Closes 2024-02-01 07:59:00. 7 bettors.
+https://manifold.markets/MaxGhenis/will-the-us-amend-the-2023-child-ta		# Closes 2024-01-31 22:59:00. 7 bettors.
+https://manifold.markets/Buckyad3b/will-playboi-carti-release-his-next		# Closes 2024-02-01 04:59:00. 7 bettors.
+https://manifold.markets/firstuserhere/will-bo-burnham-be-alive-at-the-end		# Closes 2024-02-02 18:29:00. 7 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-tweet-2-or-more-time-baa3474c256d		# Closes 2024-02-02 04:59:49.950000. 7 bettors.
+https://manifold.markets/ScipioFabius/will-there-be-a-video-of-peregrine		# Closes 2024-02-02 21:59:00. 7 bettors.
+https://manifold.markets/MichaelSea/will-rfk-jr-raise-more-than-10-mill		# Closes 2024-02-02 04:59:00. 7 bettors.
+https://manifold.markets/Seeker/will-destiny-reach-900k-subscribers		# Closes 2024-02-02 18:29:00. 7 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-make-2-or-more-tweet		# Closes 2024-02-02 04:59:49.950000. 7 bettors.
+https://manifold.markets/asmith/will-nedroid-a-webcomic-par-excelle		# Closes 2024-02-02 07:59:00. 7 bettors.
+https://manifold.markets/Wilko_waffle/will-university-of-michigan-face-se		# Closes 2024-02-02 04:59:00. 7 bettors.
+https://manifold.markets/IsaacKing/will-the-number-of-unresolved-marke		# Closes 2024-02-02 04:59:00. 7 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-make-2-or-more-tweet-131d91256758		# Closes 2024-02-03 04:59:49.950000. 7 bettors.
+https://manifold.markets/thiagovscoelho/will-harvard-deny-that-gay-resigned		# Closes 2024-02-03 02:59:00. 7 bettors.
+https://manifold.markets/EzraBrodey/question-will-apples-vision-pro-lau		# Closes 2024-02-04 04:59:00. 7 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-make-2-or-more-tweet-3977dc1e2934		# Closes 2024-02-05 04:59:49.950000. 7 bettors.
+https://manifold.markets/anthoninoDanneker/will-travis-kelce-and-taylor-swift-32a0a8354802		# Closes 2024-02-08 04:59:00. 7 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1600-worth-of-ma		# Closes 2024-02-01 04:59:56.395000. 6 bettors.
+https://manifold.markets/Zozo001CoN/did-kenshin9000-beat-the-stockfish		# Closes 2024-02-01 22:59:00. 6 bettors.
+https://manifold.markets/Lorxus/will-lorxus-get-a-secondround-inter		# Closes 2024-02-01 04:59:00. 6 bettors.
+https://manifold.markets/strutheo/the-italian-greyhound-grew-in-popul		# Closes 2024-02-01 04:59:00. 6 bettors.
+https://manifold.markets/JoshuaAxford/will-impact-ops-have-over-1000-foll		# Closes 2024-01-31 23:59:00. 6 bettors.
+https://manifold.markets/Drugsornot/will-i-smoke-weed-on-over-25-days-a-807faf6fac70		# Closes 2024-02-01 22:59:00. 6 bettors.
+https://manifold.markets/strutheo/the-poodle-was-one-of-the-akcs-top		# Closes 2024-02-01 04:59:00. 6 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10100-monthly-a		# Closes 2024-02-01 04:59:56.395000. 6 bettors.
+https://manifold.markets/Indium/will-ankidroid-release-version-217		# Closes 2024-01-31 13:59:00. 6 bettors.
+https://manifold.markets/CornFeld/will-cs2-surpass-14-million-peak-pl		# Closes 2024-02-01 04:59:00. 6 bettors.
+https://manifold.markets/GealberMorales/will-solana-pass-the-150-usd-before		# Closes 2024-01-31 22:59:00. 6 bettors.
+https://manifold.markets/Krypton/will-there-be-news-about-nvidia-ceo		# Closes 2024-02-01 15:59:00. 6 bettors.
+https://manifold.markets/Ernie/will-the-sp-500-increase-by-over-10-c11e6ea3ec06		# Closes 2024-02-01 07:59:00. 6 bettors.
+https://manifold.markets/Ophiuchus/will-netflixs-2024-adaptation-of-3		# Closes 2024-02-01 06:59:00. 6 bettors.
+https://manifold.markets/BTE/will-google-chrome-include-a-gemini-d72bd7db9e06		# Closes 2024-02-01 04:59:00. 6 bettors.
+https://manifold.markets/Base/will-i-get-demoted-to-diamond-this		# Closes 2024-02-01 22:59:00. 6 bettors.
+https://manifold.markets/YoaaauuIohheee/will-the-us-labor-force-participati		# Closes 2024-02-01 07:59:00. 6 bettors.
+https://manifold.markets/bohaska/will-i-get-into-masters-league-for		# Closes 2024-02-01 15:59:00. 6 bettors.
+https://manifold.markets/JoaoPedroSantos/will-i-be-able-to-simultaneously-us		# Closes 2024-01-31 22:59:00. 6 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-10900-monthly-a		# Closes 2024-02-01 04:59:56.395000. 6 bettors.
+https://manifold.markets/YoaaauuIohheee/will-the-city-of-chicago-have-3-con-e037ced3f542		# Closes 2024-02-01 07:59:00. 6 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1700-worth-of-ma		# Closes 2024-02-01 04:59:56.395000. 6 bettors.
+https://manifold.markets/johnleoks/out-of-the-34-charges-will-donald-t-5aa95f3b67c0		# Closes 2024-02-01 07:59:00. 6 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-1700-worth-of-ma-86251dd668f3		# Closes 2024-02-01 04:59:56.395000. 6 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-tweet-2-or-more-time-a490d0e98479		# Closes 2024-02-01 04:59:49.950000. 6 bettors.
+https://manifold.markets/DanMan314/will-mcmillennium-reach-his-20000-f		# Closes 2024-02-01 07:59:00. 6 bettors.
+https://manifold.markets/marktwse/will-the-us-pmi-increase-in-january		# Closes 2024-02-01 22:59:00. 6 bettors.
+https://manifold.markets/Schmied/will-the-current-hessian-governing		# Closes 2024-01-31 22:59:00. 6 bettors.
+https://manifold.markets/Gedalia/will-eliezer-yudkowsky-go-on-the-jo-93b840df98bd		# Closes 2024-02-01 04:59:00. 6 bettors.
+https://manifold.markets/OanaDragomir/will-adhd-remain-catalogued-as-a-di		# Closes 2024-02-02 21:59:00. 6 bettors.
+https://manifold.markets/Ernie/can-you-make-dalle-3-produce-good-d		# Closes 2024-02-02 06:59:00. 6 bettors.
+https://manifold.markets/stochasticcockatoo/will-a-higher-percent-of-bostons-to		# Closes 2024-02-02 04:59:00. 6 bettors.
+https://manifold.markets/AviMosseri/will-i-lose-50-lbs-by-february-of-2		# Closes 2024-02-02 04:59:00. 6 bettors.
+https://manifold.markets/TeriDiPiano/will-secretary-of-homeland-security		# Closes 2024-02-02 04:59:00. 6 bettors.
+https://manifold.markets/Ernie/local-san-mateo-will-this-ugly-mura		# Closes 2024-02-02 07:59:00. 6 bettors.
+https://manifold.markets/DavidFWatson/does-apple-vision-pro-require-the-c		# Closes 2024-02-02 23:59:00. 6 bettors.
+https://manifold.markets/Ernie/midjourney-integration-with-twitter		# Closes 2024-02-02 07:59:00. 6 bettors.
+https://manifold.markets/ArmandodiMatteo/if-aella-bleaches-her-hair-will-she		# Closes 2024-02-03 22:59:00. 6 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-make-2-or-more-tweet-69c0fed665c5		# Closes 2024-02-04 04:59:49.950000. 6 bettors.
+https://manifold.markets/JoeBrenton/will-there-be-violence-associated-w		# Closes 2024-02-04 05:59:00. 6 bettors.
+https://manifold.markets/11235813/will-jose-neves-founder-and-ceo-of		# Closes 2024-02-05 23:59:00. 6 bettors.
+https://manifold.markets/IsaacKohane/will-ben-shapiro-macdonald-facts-ra		# Closes 2024-02-05 04:59:00. 6 bettors.
+https://manifold.markets/OgaBoga/will-my-sis-do-something-vary-bad-i		# Closes 2024-02-05 04:59:00. 6 bettors.
+https://manifold.markets/DAL59/will-the-tencent-tv-adaptation-of-t		# Closes 2024-02-06 04:59:00. 6 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-make-2-or-more-tweet-c3c7c87aadd9		# Closes 2024-02-07 04:59:49.950000. 6 bettors.
+https://manifold.markets/AmmonLam/will-elon-musk-make-2-or-more-tweet-9d56bf3a15db		# Closes 2024-02-08 04:59:49.950000. 6 bettors.
+https://manifold.markets/A0/will-donald-trump-get-the-prolife-e		# Closes 2024-02-01 07:59:00. 5 bettors.
+https://manifold.markets/Testiecool/will-global-co2-ppm-be-higher-on-ja-7da082b84255		# Closes 2024-02-01 04:59:00. 5 bettors.
+https://manifold.markets/MattCWilson/will-matthew-cox-youtube-channel-ga		# Closes 2024-02-01 04:59:00. 5 bettors.
+https://manifold.markets/firstuserhere/will-narendra-modi-stop-being-the-p		# Closes 2024-01-31 18:29:00. 5 bettors.
+https://manifold.markets/yaboi69/wage-inflation-will-not-slow-down-o		# Closes 2024-01-31 22:59:00. 5 bettors.
+https://manifold.markets/nuclearD/will-the-anger-about-twitters-rebra		# Closes 2024-02-01 06:59:00. 5 bettors.
+https://manifold.markets/ZZZZZZ/will-my-relative-be-scammed-out-of-aa7a4e5be084		# Closes 2024-02-01 03:15:00. 5 bettors.
+https://manifold.markets/SusanDuenas/will-hurricanes-be-common-in-califo		# Closes 2024-02-01 07:59:00. 5 bettors.
+https://manifold.markets/EvanDaniel/will-manifolds-next-backend-enginee		# Closes 2024-02-01 06:59:00. 5 bettors.
+https://manifold.markets/nuclearD/will-the-youtube-ad-blocker-blocker		# Closes 2024-02-01 06:59:00. 5 bettors.
+https://manifold.markets/Agh/memetix-will-be-on-kok-before-febru		# Closes 2024-02-01 22:59:00. 5 bettors.
+https://manifold.markets/bigmac/will-a-new-solar-cell-technology-wi		# Closes 2024-01-31 23:59:00. 5 bettors.
+https://manifold.markets/DonaldIves/will-jimmy-kimmel-file-a-slander-la		# Closes 2024-02-01 07:59:00. 5 bettors.
+https://manifold.markets/strutheo/will-the-usa-sand-gravel-usage-surp		# Closes 2024-02-01 04:59:00. 5 bettors.
+https://manifold.markets/YaakovSaxon/on-the-next-full-stack-launch-of-st-efacc82ec88b		# Closes 2024-02-01 04:59:00. 5 bettors.
+https://manifold.markets/Fernando711/will-google-be-broken-up-after-the		# Closes 2024-01-31 22:59:00. 5 bettors.
+https://manifold.markets/MichaelBlume/if-i-buy-a-verizon-sim-card-will-i		# Closes 2024-02-01 07:59:00. 5 bettors.
+https://manifold.markets/jack/polymarket-hamas-lose-power-in-gaza		# Closes 2024-02-02 04:59:00. 5 bettors.
+https://manifold.markets/Thies/will-tiktok-be-banned-for-showing-n		# Closes 2024-02-02 22:59:00. 5 bettors.
+https://manifold.markets/UniversalFC/will-inter-miami-beat-al-nassr-mess		# Closes 2024-02-02 04:59:00. 5 bettors.
+https://manifold.markets/CarterHinsley/will-google-or-a-deepmind-employee		# Closes 2024-02-02 04:59:00. 5 bettors.
+https://manifold.markets/Thies/will-social-media-tiktok-youtube-x		# Closes 2024-02-02 22:59:00. 5 bettors.
+https://manifold.markets/MaxGhenis/will-the-us-enact-legislation-to-in		# Closes 2024-02-02 04:59:00. 5 bettors.
+https://manifold.markets/AmmonLam/will-the-sp-500-index-close-higher-ebdd5d7db07c		# Closes 2024-02-03 04:59:49.950000. 5 bettors.
+https://manifold.markets/Futurista/will-openai-loosen-its-restrictions		# Closes 2024-02-04 04:59:00. 5 bettors.
+https://manifold.markets/ArjunPanickssery/will-there-be-an-eag-afterparty-at		# Closes 2024-02-04 07:59:00. 5 bettors.
+https://manifold.markets/Futurista/will-popup-shops-become-the-dominan		# Closes 2024-02-04 04:59:00. 5 bettors.
+https://manifold.markets/regconnolly/six-nations-rugby-italyyes-v-englan		# Closes 2024-02-04 23:59:00. 5 bettors.
+https://manifold.markets/anthoninoDanneker/will-pop-tarts-recontinue-the-cinna		# Closes 2024-02-04 04:59:00. 5 bettors.
+https://manifold.markets/Seeker/is-there-a-chess-grand-master-gm-on		# Closes 2024-02-05 08:00:00. 5 bettors.
+https://manifold.markets/tandalorian/will-the-edmonton-oilers-tie-the-al		# Closes 2024-02-08 06:59:00. 5 bettors.
+https://manifold.markets/KeenenWatts/will-the-detroit-red-wings-beat-ott		# Closes 2024-02-01 03:15:00. 4 bettors.
+https://manifold.markets/Gigacasting/will-the-vesuvius-challenge-grand-p-7f83c62d5018		# Closes 2024-02-01 07:59:00. 4 bettors.
+https://manifold.markets/Techiavellian/will-the-overnight-reverse-repurcha		# Closes 2024-02-01 05:59:00. 4 bettors.
+https://manifold.markets/MaxGhenis/will-the-us-increase-the-additional		# Closes 2024-01-31 22:59:00. 4 bettors.
+https://manifold.markets/titan/will-the-usas-overweight-or-obese-p-e10571bd3ef7		# Closes 2024-02-01 23:59:00. 4 bettors.
+https://manifold.markets/BobMiller/do-the-ny-jets-fire-their-coach-bef		# Closes 2024-02-01 05:59:00. 4 bettors.
+https://manifold.markets/kqr/will-my-cash-holdem-win-rate-exceed		# Closes 2024-01-31 22:59:00. 4 bettors.
+https://manifold.markets/Tetraspace/will-tetraspace-get-an-acx-grant		# Closes 2024-01-31 23:59:00. 4 bettors.
+https://manifold.markets/FranklinBaldo/will-barcelona-beat-osasuna-during		# Closes 2024-01-31 21:00:00. 4 bettors.
+https://manifold.markets/Dingokay/will-kiezly-make-a-video-before-feb		# Closes 2024-01-31 23:59:00. 4 bettors.
+https://manifold.markets/KevinBlaw/will-the-fine-in-the-trump-civil-fr		# Closes 2024-02-01 04:59:00. 4 bettors.
+https://manifold.markets/AmmonLam/will-the-sp-500-index-close-higher-ad5746a01dc8		# Closes 2024-02-01 04:59:49.950000. 4 bettors.
+https://manifold.markets/CarsonGale/will-fy-2023-secondaries-volume-be		# Closes 2024-02-01 07:59:00. 4 bettors.
+https://manifold.markets/Orca/will-the-faa-air-worthiness-directi		# Closes 2024-02-01 07:59:00. 4 bettors.
+https://manifold.markets/AmmonLam/will-there-be-over-800-worth-of-man-376af97b4eee		# Closes 2024-02-01 04:59:56.395000. 4 bettors.
+https://manifold.markets/FranklinBaldo/will-tottenham-beat-brentford-durin		# Closes 2024-01-31 22:30:00. 4 bettors.
+https://manifold.markets/Tetraspace/will-tetra-have-made-electioncondit		# Closes 2024-01-31 23:59:00. 4 bettors.
+https://manifold.markets/BowieHill/will-boeing-deliver-more-than-70-73		# Closes 2024-02-01 04:59:00. 4 bettors.
+https://manifold.markets/Testiecool/will-global-co2-ppm-be-higher-on-ja-936665566705		# Closes 2024-02-02 04:59:00. 4 bettors.
+https://manifold.markets/CornFeld/will-punxsutawney-phil-the-most-fam		# Closes 2024-02-02 04:59:00. 4 bettors.
+https://manifold.markets/Lorxus/will-lorxus-the-author-of-this-mark-6cb57e2e9deb		# Closes 2024-02-02 05:59:00. 4 bettors.
+https://manifold.markets/AmmonLam/will-the-sp-500-index-close-higher-95f3d0789b5f		# Closes 2024-02-02 04:59:49.950000. 4 bettors.
+https://manifold.markets/Bruce54df/will-the-liv-merger-will-pga-tour-b		# Closes 2024-02-02 04:59:00. 4 bettors.
+https://manifold.markets/WillyTheWhite/will-wiarton-willie-see-his-shadow		# Closes 2024-02-03 04:59:00. 4 bettors.
+https://manifold.markets/AmmonLam/will-manifold-reach-4500-weekly-act		# Closes 2024-02-03 04:59:00. 4 bettors.
+https://manifold.markets/TonyPizza/is-rob-lowe-an-a-list-celebrity		# Closes 2024-02-03 04:59:00. 4 bettors.
+https://manifold.markets/Testiecool/will-jimmy-carter-die-during-the-5t		# Closes 2024-02-04 04:59:00. 4 bettors.
+https://manifold.markets/KevinBurke/will-draymond-green-be-suspended-fo		# Closes 2024-02-04 07:59:00. 4 bettors.
+https://manifold.markets/AmmonLam/will-the-sp-500-index-close-higher-e7a8985071b8		# Closes 2024-02-06 04:59:49.950000. 4 bettors.
+https://manifold.markets/ArkadiuszGawron/will-egypt-be-safe-to-travel-to-in		# Closes 2024-02-07 04:59:00. 4 bettors.
+https://manifold.markets/AmmonLam/will-the-sp-500-index-close-higher-69a6a77f1ff8		# Closes 2024-02-07 04:59:49.950000. 4 bettors.
+https://manifold.markets/marktwse/will-the-gff-have-4700-donors-after		# Closes 2024-01-31 22:59:00. 3 bettors.
+https://manifold.markets/KeenenWatts/will-the-los-angeles-kings-beat-nas		# Closes 2024-02-01 03:45:00. 3 bettors.
+https://manifold.markets/FranklinBaldo/will-west-ham-beat-bournemouth-duri		# Closes 2024-02-01 22:30:00. 3 bettors.
+https://manifold.markets/JustinPoulin/will-xrp-hit-20-in-january		# Closes 2024-02-01 04:59:00. 3 bettors.
+https://manifold.markets/Ernie/will-the-sp-500-decrease-by-over-15		# Closes 2024-02-01 07:59:00. 3 bettors.
+https://manifold.markets/Ernie/will-the-sp-500-decrease-by-over-10-d910d9f3c34f		# Closes 2024-02-01 07:59:00. 3 bettors.
+https://manifold.markets/LiamNewittClark/will-i-be-able-to-touch-my-toes-by		# Closes 2024-02-01 12:59:00. 3 bettors.
+https://manifold.markets/johnleoks/out-of-the-34-charges-will-donald-t-ad338c3dc279		# Closes 2024-02-01 07:59:00. 3 bettors.
+https://manifold.markets/snazzlePop/will-i-promote-to-diamond-after-thi		# Closes 2024-02-01 07:59:00. 3 bettors.
+https://manifold.markets/Conflux/will-the-winning-optic-team-be-from		# Closes 2024-02-01 07:59:00. 3 bettors.
+https://manifold.markets/samb/what-fraction-of-americans-will-hav-76e72f153564		# Closes 2024-02-01 04:59:00. 3 bettors.
+https://manifold.markets/samb/what-fraction-of-americans-will-hav		# Closes 2024-02-01 04:59:00. 3 bettors.
+https://manifold.markets/bohaska/will-the-next-world-economic-outloo		# Closes 2024-01-31 15:59:00. 3 bettors.
+https://manifold.markets/DonQuixote/will-mercedes-mone-debut-in-aew-by		# Closes 2024-01-31 19:59:00. 3 bettors.
+https://manifold.markets/MaxGhenis/will-the-us-amend-the-2024-addition		# Closes 2024-02-02 04:59:00. 3 bettors.
+https://manifold.markets/Aevylmar/will-i-regret-my-decision-if-i-buy-8bfe5b49fee7		# Closes 2024-02-02 07:59:00. 3 bettors.
+https://manifold.markets/Aevylmar/will-i-regret-my-decision-if-i-buy		# Closes 2024-02-02 06:50:00. 3 bettors.
+https://manifold.markets/MatthewP/will-the-pat-mcafee-show-still-be-a		# Closes 2024-02-02 04:59:00. 3 bettors.
+https://manifold.markets/Notwhoyouthink/will-the-apple-vision-pro-be-as-goo		# Closes 2024-02-03 04:59:00. 3 bettors.
+https://manifold.markets/RoelTsehaye/will-real-madrid-beat-atletico-madr		# Closes 2024-02-03 22:59:00. 3 bettors.
+https://manifold.markets/JoeBrenton/will-the-us-federal-government-take		# Closes 2024-02-04 05:59:00. 3 bettors.
+https://manifold.markets/Gritty/will-sidney-crosby-score-more-goals		# Closes 2024-02-05 04:59:00. 3 bettors.
+https://manifold.markets/AmmonLam/will-the-sp-500-index-close-higher-fe89d58f0be9		# Closes 2024-02-08 04:59:49.950000. 3 bettors.
+https://manifold.markets/Seke/by-end-2024-will-there-be-a-useful		# Closes 2024-02-01 04:59:00. 2 bettors.
+https://manifold.markets/marktwse/will-gff-report-a-deficit-for-the-t		# Closes 2024-01-31 22:59:00. 2 bettors.
+https://manifold.markets/tomupom/will-wellington-city-enter-level-3		# Closes 2024-01-31 10:59:00. 2 bettors.
+https://manifold.markets/UniversalFC/will-messi-score-a-goal-in-january		# Closes 2024-02-01 04:59:00. 2 bettors.
+https://manifold.markets/Conflux/will-the-average-opticf23ba-teams-l		# Closes 2024-02-01 07:59:00. 2 bettors.
+https://manifold.markets/AnT/what-percentage-of-my-lesswrong-com		# Closes 2024-02-01 18:59:00. 2 bettors.
+https://manifold.markets/bohaska/will-manifold-implement-at-least-3		# Closes 2024-01-31 15:59:00. 2 bettors.
+https://manifold.markets/NewCaird/this-statement-is-false		# Closes 2024-02-01 05:59:00. 2 bettors.
+https://manifold.markets/BriarMcCoy/will-microsoft-generate-over-100-mi		# Closes 2024-01-31 22:59:00. 2 bettors.
+https://manifold.markets/johnleoks/will-stormy-daniels-appear-in-court		# Closes 2024-02-01 07:59:00. 2 bettors.
+https://manifold.markets/FranklinBaldo/will-wolves-beat-manchester-united		# Closes 2024-02-01 23:15:00. 2 bettors.
+https://manifold.markets/SteveAcomb/will-folding-ideas-publish-another		# Closes 2024-02-02 04:59:00. 2 bettors.
+https://manifold.markets/BTE/will-the-us-secretary-of-defense-ho-f54e68c5e87f		# Closes 2024-02-02 05:59:00. 2 bettors.
+https://manifold.markets/RiverHambleton/will-this-predictions-percentage-be		# Closes 2024-02-02 04:59:00. 2 bettors.
+https://manifold.markets/Aevylmar/will-i-regret-my-decision-if-i-buy-d043d044888d		# Closes 2024-02-02 07:59:00. 2 bettors.
+https://manifold.markets/SteveAcomb/will-bobbybroccoli-publish-another		# Closes 2024-02-02 04:59:00. 2 bettors.
+https://manifold.markets/Dre/will-openaicom-appear-in-the-top-20		# Closes 2024-02-02 23:59:00. 2 bettors.
+https://manifold.markets/Rucker/will-the-party-never-ends-release-i		# Closes 2024-02-02 04:59:00. 2 bettors.
+https://manifold.markets/JacobBaxter/estimates-for-ever-given-were-610b		# Closes 2024-02-02 05:59:00. 2 bettors.
+https://manifold.markets/jacksonpolack/will-anyone-post-an-interesting-mat-c62b27c4a135		# Closes 2024-02-02 07:59:00. 2 bettors.
+https://manifold.markets/JimFix/will-the-sp-500-index-close-higher-8fd17ffe287c		# Closes 2024-02-04 05:59:00. 2 bettors.
+https://manifold.markets/regconnolly/six-nations-rugby-walesyes-v-scotla		# Closes 2024-02-04 23:59:00. 2 bettors.
+https://manifold.markets/regconnolly/six-nations-rugby-france-v-ireland		# Closes 2024-02-04 23:59:00. 2 bettors.
+https://manifold.markets/june/will-an-ariana-grande-song-be-1-on		# Closes 2024-02-05 06:59:00. 2 bettors.
+https://manifold.markets/BlueDragon/-will-elections-in-pakistan-take-pl		# Closes 2024-02-06 07:59:00. 2 bettors.
+https://manifold.markets/ThePhilosopher/are-there-thresholds-for-levels-of		# Closes 2024-02-07 04:59:00. 2 bettors.
+https://manifold.markets/JR4c01/will-gixxer-brah-be-arrested-or-sur		# Closes 2024-02-08 05:59:00. 2 bettors.
+https://manifold.markets/FranklinBaldo/will-atletico-madrid-beat-rayo-vall		# Closes 2024-01-31 23:00:00. 1 bettors.
+https://manifold.markets/AlanGebele/will-the-real-yield-for-the-10-tips		# Closes 2024-02-01 04:59:00. 1 bettors.
+https://manifold.markets/parhizj/arctic-sea-ice-volume-for-january-2		# Closes 2024-02-01 05:00:00. 1 bettors.
+https://manifold.markets/bohaska/will-tracingwoodgrains-post-another		# Closes 2024-02-01 07:59:00. 1 bettors.
+https://manifold.markets/FranklinBaldo/will-getafe-beat-real-madrid-during		# Closes 2024-02-01 23:00:00. 1 bettors.
+https://manifold.markets/BenSamb/will-brookfield-property-partners-d		# Closes 2024-02-01 04:59:00. 1 bettors.
+https://manifold.markets/stochasticcockatoo/is-jose-luis-ricon-2024s-most-eligi		# Closes 2024-02-01 04:59:00. 1 bettors.
+https://manifold.markets/FranklinBaldo/will-manchester-city-beat-burnley-d		# Closes 2024-01-31 22:30:00. 1 bettors.
+https://manifold.markets/iansaintlawrence/will-mark-zimmerman-new-lcs-commiss		# Closes 2024-02-02 06:59:00. 1 bettors.
+https://manifold.markets/FranklinBaldo/will-fc-heidenheim-beat-borussia-do		# Closes 2024-02-02 22:30:00. 1 bettors.
+https://manifold.markets/SteveAcomb/will-j-aubrey-publish-another-youtu		# Closes 2024-02-02 04:59:00. 1 bettors.
+https://manifold.markets/FranklinBaldo/will-athletic-club-beat-mallorca-du		# Closes 2024-02-02 23:00:00. 1 bettors.
+https://manifold.markets/rogerplanck/gengar-vs-arcanine-who-would-win		# Closes 2024-02-03 21:59:00. 1 bettors.
+https://manifold.markets/LarryAlexander/will-dunkirk-dave-see-his-shadow		# Closes 2024-02-03 04:59:00. 1 bettors.
+https://manifold.markets/JoeBrenton/will-any-local-government-take-acti		# Closes 2024-02-04 05:59:00. 1 bettors.
+https://manifold.markets/Yoyo/is-barbie-better-than-oppenheimer		# Closes 2024-02-05 04:59:00. 1 bettors.
+https://manifold.markets/OgaBoga/will-i-be-able-to-not-talk-for-a-da		# Closes 2024-02-05 04:59:00. 1 bettors.
+https://manifold.markets/Sjlver/will-a-security-flaw-be-discovered		# Closes 2024-02-07 22:59:00. 1 bettors.
+https://manifold.markets/cauli/how-many-people-will-be-at-caulicam		# Closes 2024-02-07 12:59:00. 1 bettors.
+https://manifold.markets/BlueDragon/-will-the-turnout-be-lower-than-usu		# Closes 2024-02-08 07:59:00. 1 bettors.
+https://manifold.markets/AgathaAcacia/baixe-toques-gratuitos-para-disposi		# Closes 2024-02-01 16:59:00. 0 bettors.
+https://manifold.markets/KeenenWatts/will-the-anaheim-ducks-beat-san-jos		# Closes 2024-02-01 06:45:00. 0 bettors.
+https://manifold.markets/FranklinBaldo/will-liverpool-beat-chelsea-during		# Closes 2024-01-31 23:15:00. 0 bettors.
+https://manifold.markets/BenjaminIkuta/if-i-get-demoted-will-it-be-because-201a36488d3a		# Closes 2024-02-02 21:59:00. 0 bettors.
+https://manifold.markets/emile/will-chris-get-to-bed-by-1045pm-at-de2d57714da3		# Closes 2024-02-03 21:36:00. 0 bettors.
+https://manifold.markets/BrianLechuanJiang/next-friday-1262024-we-play-a-game-9b3ce81a6706		# Closes 2024-02-03 04:59:00. 0 bettors.
+https://manifold.markets/BrianLechuanJiang/next-friday-1262024-we-play-a-game		# Closes 2024-02-03 04:59:00. 0 bettors.
+https://manifold.markets/orangedrink/will-a-lotto-winner-be-on-the-newsc		# Closes 2024-02-05 04:59:00. 0 bettors.
+https://manifold.markets/firstuserhere/geoguessr-gpt4-vision-vs-firstuserh-9c9f603086a1		# Closes 2024-02-02 17:41:00. 31 bettors. Tags: ['personal']
+https://manifold.markets/firstuserhere/geoguessr-gpt4-vision-vs-firstuserh		# Closes 2024-01-31 16:29:00. 33 bettors. Tags: ['personal']
+https://manifold.markets/SophiaLaird/will-this-market-resolve-before-my-162cbe25ddfe		# Closes 2024-02-05 07:59:00. 6 bettors. Tags: ['personal']
+https://manifold.markets/IsaacKing/will-any-of-my-nonmtg-articles-be-m		# Closes 2024-02-02 04:59:00. 5 bettors. Tags: ['personal']
+https://manifold.markets/redcat/will-i-go-to-the-gym-twice-a-week-i		# Closes 2024-01-31 22:59:00. 10 bettors. Tags: ['personal-goals']
+https://manifold.markets/TobyBW/will-i-lose-at-least-5k-mana-by-the		# Closes 2024-02-01 04:59:00. 17 bettors. Tags: ['personal-goals']
+https://manifold.markets/AlexShadley/will-i-publish-at-least-8-new-artic		# Closes 2024-02-02 07:59:00. 13 bettors. Tags: ['personal-goals']
+https://manifold.markets/cd/will-my-coworker-brad-drink-15-cans		# Closes 2024-02-03 07:59:00. 14 bettors. Tags: ['personal-goals']
+https://manifold.markets/cc6/will-i-refrain-from-picking-my-nail		# Closes 2024-02-03 07:59:00. 15 bettors. Tags: ['personal-goals']
+https://manifold.markets/Radicalia/will-my-manifold-calibration-be-a-o		# Closes 2024-02-04 07:59:00. 11 bettors. Tags: ['personal-goals']
+https://manifold.markets/NicoDelon/will-nicodelon-manage-to-halve-the		# Closes 2024-02-01 04:59:00. 21 bettors. Tags: ['personal-goals']
+https://manifold.markets/NoyaV/will-i-memorize-all-world-capitals		# Closes 2024-02-01 22:59:00. 30 bettors. Tags: ['personal-goals']
+https://manifold.markets/Shump/will-shump-manage-to-halve-the-time		# Closes 2024-02-01 04:59:00. 9 bettors. Tags: ['personal-goals']
+https://manifold.markets/HenriThunberg/will-i-maintain-a-duolingo-streak-t-252430c08662		# Closes 2024-02-01 22:59:00. 9 bettors. Tags: ['personal-goals']
+https://manifold.markets/Panfilo/will-i-go-back-to-brazilian-jiu-jis		# Closes 2024-02-01 04:59:00. 8 bettors. Tags: ['personal-goals']
+https://manifold.markets/Destiato/if-i-write-for-2-hours-every-day-in		# Closes 2024-02-02 05:59:00. 5 bettors. Tags: ['personal-goals']
+https://manifold.markets/VictorsOtherVector/will-i-publish-a-new-video-before-t		# Closes 2024-02-01 07:59:00. 4 bettors. Tags: ['personal-goals']
+https://manifold.markets/phaen/will-i-meet-net-and-gross-calorie-g		# Closes 2024-02-04 05:59:00. 3 bettors. Tags: ['personal-goals']
+https://manifold.markets/Unown/will-i-finish-first-in-my-bronze-le		# Closes 2024-02-01 08:00:00. 13 bettors. Tags: ['personal-goals', 'personal']
+https://manifold.markets/mattyb/will-i-mattyb-promote-to-masters-in		# Closes 2024-02-01 23:59:00. 16 bettors. Tags: ['personal-goals', 'personal']
+https://manifold.markets/jojomonsta/will-my-appblocker-freedom-stay-ins		# Closes 2024-01-31 22:59:00. 17 bettors. Tags: ['personal-goals', 'personal']
+https://manifold.markets/mcint/will-i-write-a-doc-blog-post-publis		# Closes 2024-02-01 07:59:00. 11 bettors. Tags: ['personal-goals', 'personal']
+https://manifold.markets/SeitaY/will-i-make-100-usd-via-freelance-s		# Closes 2024-02-01 04:59:00. 5 bettors. Tags: ['personal-goals', 'personal']
+https://manifold.markets/TheAllMemeingEye/will-the-most-traded-question-that		# Closes 2024-01-31 23:59:00. 10 bettors. Tags: ['fun']
+https://manifold.markets/Stralor/riddle-are-there-more-eyes-or-feet		# Closes 2024-02-02 07:59:00. 94 bettors. Tags: ['fun']
+https://manifold.markets/Dain5K/will-all-my-players-continue-their		# Closes 2024-02-04 12:59:00. 7 bettors. Tags: ['fun']
+https://manifold.markets/AWA/will-i-finish-reading-20-books-by-t		# Closes 2024-02-01 22:59:00. 13 bettors. Tags: ['fun', 'personal-goals']
+https://manifold.markets/NivCohen/will-this-market-not-end-above-99		# Closes 2024-02-04 04:59:00. 4 bettors. Tags: ['selfresolving']
+https://manifold.markets/Tumbles/will-i-promote-to-masters-league-th		# Closes 2024-02-01 07:59:00. 20 bettors. Tags: ['nonpredictive']
+https://manifold.markets/IsaacKing/change-my-mind-at-the-end-of-januar		# Closes 2024-02-02 07:59:00. 12 bettors. Tags: ['nonpredictive']
+https://manifold.markets/BTE/will-i-bte-promote-to-masters		# Closes 2024-02-02 04:59:00. 12 bettors. Tags: ['nonpredictive']
+https://manifold.markets/MarkHamill/will-i-promote-to-diamond-in-januar		# Closes 2024-02-02 07:59:00. 11 bettors. Tags: ['nonpredictive']
+https://manifold.markets/Bayesian/will-i-thebayesian-promote-to-the-m		# Closes 2024-02-02 04:59:00. 14 bettors. Tags: ['nonpredictive']
+https://manifold.markets/JosephS/by-the-end-of-this-month-chatgpt-wi		# Closes 2024-02-01 15:59:00. 54 bettors. Tags: ['nonpredictive']
+https://manifold.markets/Voidvamp/will-i-voidvamp-be-promoted-to-diam-5ffa4bd97b15		# Closes 2024-02-03 18:29:00. 9 bettors. Tags: ['nonpredictive']
+https://manifold.markets/BenjaminIkuta/will-i-be-promoted-to-masters-leagu-ff22db58b980		# Closes 2024-02-03 07:59:00. 9 bettors. Tags: ['nonpredictive']
+https://manifold.markets/Seeker/will-isaacking-defeat-me-in-the-lea		# Closes 2024-02-05 08:00:00. 9 bettors. Tags: ['nonpredictive']
+https://manifold.markets/Willi/will-i-stay-diamond-or-be-promoted		# Closes 2024-02-01 22:59:00. 8 bettors. Tags: ['nonpredictive']
+https://manifold.markets/mint/will-i-finish-1st-in-my-platinum-le		# Closes 2024-02-03 04:59:00. 8 bettors. Tags: ['nonpredictive']
+https://manifold.markets/june/will-i-be-in-diamond-league-for-sea		# Closes 2024-02-05 06:59:00. 7 bettors. Tags: ['nonpredictive']
+https://manifold.markets/twink_joan_didion/will-i-remain-in-diamond-at-the-end		# Closes 2024-02-02 07:59:00. 6 bettors. Tags: ['nonpredictive']
+https://manifold.markets/BenjaminIkuta/will-i-finish-rank-one-in-diamond-l-3b6bfd3c4f98		# Closes 2024-02-03 07:59:00. 6 bettors. Tags: ['nonpredictive']
+https://manifold.markets/KongoLandwalker/how-many-traders-will-unfair-chess		# Closes 2024-01-31 22:59:00. 5 bettors. Tags: ['nonpredictive']
+https://manifold.markets/mattyb/will-breezybot-finish-in-last-place		# Closes 2024-02-01 07:59:00. 5 bettors. Tags: ['nonpredictive']
+https://manifold.markets/Lorxus/will-lorxus-the-author-of-this-mark-e62f237281b6		# Closes 2024-02-02 05:59:00. 5 bettors. Tags: ['nonpredictive']
+https://manifold.markets/Pykess/will-pykess-finish-1-in-their-leade		# Closes 2024-02-02 04:59:00. 5 bettors. Tags: ['nonpredictive']
+https://manifold.markets/BenjaminIkuta/will-i-remain-in-diamond-league-a8b12d2cb3ff		# Closes 2024-02-03 07:59:00. 5 bettors. Tags: ['nonpredictive']
+https://manifold.markets/BenjaminIkuta/will-i-be-demoted-to-platinum-leagu-05a36ba98a67		# Closes 2024-02-03 07:59:00. 2 bettors. Tags: ['nonpredictive']
+https://manifold.markets/piskel/will-this-market-have-more-trades-t		# Closes 2024-01-31 22:59:00. 5 bettors. Tags: ['nonpredictive', 'selfresolving', 'fun']
+https://manifold.markets/SteveSokolowski/play-the-january-2024-lottery		# Closes 2024-02-02 04:59:00. 14 bettors. Tags: ['unsubsidized']
+https://manifold.markets/LandynMcAfee/in-2028-will-ai-be-at-least-as-big-7151fdaca3cb		# Closes 2024-02-08 04:59:00. 15 bettors. Tags: ['unsubsidized']
+https://manifold.markets/AmmonLam/will-the-bitcoin-price-drop-below-3-34bca371c418		# Closes 2024-02-02 04:59:00. 24 bettors. Tags: ['unsubsidized']
+https://manifold.markets/LandynMcAfee/in-2028-will-ai-be-at-least-as-big-bf55a7b95133		# Closes 2024-02-08 04:59:00. 28 bettors. Tags: ['unsubsidized']
+https://manifold.markets/LandynMcAfee/what-will-happen-in-february-2024-a-0ae89c77575e		# Closes 2024-02-08 04:59:00. 0 bettors. Tags: ['unsubsidized']
+https://manifold.markets/DaveTrash/will-this-market-get-200-or-more-un		# Closes 2024-02-02 04:59:00. 12 bettors. Tags: ['unsubsidized', 'nonpredictive']
+https://manifold.markets/firstuserhere/this-market-resolves-na-on-2nd-febr		# Closes 2024-02-03 08:00:00. 30 bettors. Tags: ['unsubsidized', 'nonpredictive']
+https://manifold.markets/Soli/game-the-last-person-to-bet-on-this		# Closes 2024-01-31 11:55:00. 41 bettors. Tags: ['unsubsidized', 'nonpredictive']
+https://manifold.markets/firstuserhere/blah-blah-blah-this-market-resolves		# Closes 2024-02-03 08:00:00. 9 bettors. Tags: ['unsubsidized', 'nonpredictive']
+https://manifold.markets/BenjaminIkuta/this-market-resolves-prob-but-if-so-8b0c529d9efe		# Closes 2024-02-03 07:59:00. 2 bettors. Tags: ['unsubsidized', 'nonpredictive', 'fun']
+https://manifold.markets/BenjaminIkuta/-6df9e1a41d8e		# Closes 2024-02-03 07:59:00. 2 bettors. Tags: ['unsubsidized', 'nonpredictive', 'fun']
+https://manifold.markets/NathChuananopakul/have-you-tripped-and-fell-after-181		# Closes 2024-02-01 16:59:00. 1 bettors. Tags: ['unsubsidized', 'nonpredictive', 'selfresolving', 'fun']
