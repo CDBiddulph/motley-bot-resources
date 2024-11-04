@@ -3,9 +3,11 @@ import dataclasses
 import pytz
 import random
 import requests
+import time
 
 # from collections.abc import Collection
 from datetime import datetime, timedelta
+from tqdm import tqdm
 from typing import Tuple, Sequence, Collection, Optional
 
 PAGE_LENGTH = 1000
@@ -33,14 +35,14 @@ def attempt_get_json(url: str, num_retries: int = 12, fixed_wait: int = 5):
     assert num_retries > 0
     for retry in range(num_retries):
         if retry > 0:
-            sleep(fixed_wait)
+            time.sleep(fixed_wait)
             print("Retrying...")
         try:
             response = requests.get(url)
             response.raise_for_status()
             return response.json()
         except requests.exceptions.RequestException as e:
-            print(f"Attempt {attempt}/{num_retries} failed for {url}")
+            print(f"Attempt {retry}/{num_retries} failed for {url}")
             exception = e
     # It should be impossible for exception to be None
     raise exception
@@ -100,6 +102,10 @@ class Market:
         """Return True if _tags is already calculated."""
         return self._tags is not None
 
+    def __hash__(self):
+        # market_id should be sufficient to identify the Market.
+        return hash(self.market_id)
+
 def get_market_from_json(market_json):
     market = Market(
             market_id=market_json["id"],
@@ -133,6 +139,9 @@ class FilterConfig:
     bettor_range: Tuple[int, int]
     bad_tags: Sequence[str]
 
+    def __hash__(self):
+        return hash((self.last_free_day, tuple(self.bettor_range), tuple(self.bad_tags)))
+
 def days_since(dt, since_datestring: str) -> int:
     since_datetime = str_to_datetime(since_datestring)
     return (dt - since_datetime).days
@@ -143,7 +152,9 @@ def get_market_tags(market_id: str) -> Collection[str]:
     return set(market_json["groupSlugs"]) if "groupSlugs" in market_json else {}
 
 # Returns a tuple with elements representing filter criteria in order of their priority.
-def get_market_sort_key(market, filter_cfg: FilterConfig):
+# This may take a while because market.tags makes a call to the API.
+def get_market_sort_key(market: Market, filter_cfg: FilterConfig):
+
     key = []
     # Add a penalty for each bad tag, in order of how important they are to avoid.
     # Since market.tags is lazily evaluated, the tags won't be fetched if
@@ -160,8 +171,9 @@ def get_market_sort_key(market, filter_cfg: FilterConfig):
 
 def filter_markets(markets, max_markets: int, filter_cfg: FilterConfig):
     random.shuffle(markets)
-    markets.sort(key=lambda m: get_market_sort_key(m, filter_cfg))
-    return markets[:max_markets]
+    markets_with_sort_keys = [(get_market_sort_key(m, filter_cfg), m) for m in tqdm(markets, desc="Sorting markets")]
+    markets_with_sort_keys.sort(key=lambda m: m[0])
+    return [m for _, m in markets_with_sort_keys][:max_markets]
 
 def get_market_comment(market: Market, bad_tags: Collection[str]) -> str:
     tags_str = ""
