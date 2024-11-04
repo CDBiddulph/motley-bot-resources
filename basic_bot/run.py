@@ -18,7 +18,7 @@ LLM_ARGS = {
 
 # Set up argument parsing
 def parse_args():
-    parser = argparse.ArgumentParser(description="Run a language model with options for mock or OpenAI API usage.")
+    parser = argparse.ArgumentParser(description="Run a basic Manifold bot for the Motley Bot Challenge.")
 
     # Define the flags
     parser.add_argument('--input_file', type=str, required=True,
@@ -31,13 +31,13 @@ def parse_args():
             help=f'Which type of search to use. Valid search types: {", ".join(SEARCH_TYPES)}')
     parser.add_argument('--bet_type', type=str, required=False,
             help=f'The betting behavior - either real, dry_run, or none (no calling the Manifold API at all).')
-    parser.add_argument('--llm', type=str, required=True,
+    parser.add_argument('--llm', type=str, required=False,
             help=f'Flag to indicate which LLM to use. Valid LLMs: {", ".join(LLM_ARGS.keys())}')
     parser.add_argument('--openai_key_path', type=str, required=False,
             help='Path to a file containing the OpenAI API key.')
     parser.add_argument('--bing_key_path', type=str, required=False,
             help='Path to a file containing the Bing API key.')
-    parser.add_argument('--manifold_key_path', type=str, required=True,
+    parser.add_argument('--manifold_key_path', type=str, required=False,
             help='Path to a file containing the Manifold API key.')
 
     return parser.parse_args()
