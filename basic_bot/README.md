@@ -34,3 +34,6 @@ Run `python3 run.py --help` to see more options.
 
 You will probably have to install some packages with pip before that command will work. DM me on Manifold or Discord if you're having trouble with setup.
 
+## Creating your unique bot
+
+Start by editing decision_maker.py to create a new DecisionMaker! This is expected to return a dictionary containing a "choice" between "BUY_YES", "BUY_NO", and "DO_NOTHING", as well as the "reasoning" for the choice (this could be helpful for debugging). You'll have to edit run.py so that it runs your new DecisionMaker rather than RandomDecisionMaker. You may also want to adjust the prompts to your liking, or add more context besides just Bing search.
