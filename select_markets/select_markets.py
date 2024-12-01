@@ -230,7 +230,7 @@ def parse_args():
         "unsubsidized"
         ], help='List of bad tags')
     parser.add_argument('--ignore_tags', action='store_true', help="If true, ignore the tags in bad_tags. This allows the script to run much faster since we don't have to fetch the tags for each individual market.")
-    parser.add_argument('--outfile', type=str, help="The file to write a list of markets to.")
+    parser.add_argument('--outfile', type=str, required=True, help="The file to write a list of markets to.")
 
     return parser.parse_args()
 
