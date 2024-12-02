@@ -10,7 +10,7 @@ class Bettor(ABC):
 
 
 class HttpBettor(Bettor):
-    def __init__(self, api_key, dry_run=False):
+    def init(self, api_key, dry_run=False):
         self._api_key = api_key
         self._dry_run = dry_run
 
@@ -25,17 +25,17 @@ class HttpBettor(Bettor):
             raise ValueError(f"Invalid bet: {bet}")
 
         response = requests.post(
-                "https://api.manifold.markets/v0/bet",
-                headers={
-                    'Authorization': f'Key {self._api_key}',
-                    'Content-Type': 'application/json'
-                    },
-                json={
-                    "amount": 1,
-                    "contractId": market_id,
-                    "outcome": outcome,
-                    "dryRun": self._dry_run
-                    }
-                )
+            "https://api.manifold.markets/v0/bet",
+            headers={
+                'Authorization': f'Key {self._api_key}',
+                'Content-Type': 'application/json'
+            },
+            json={
+                "amount": 1,
+                "contractId": market_id,
+                "outcome": outcome,
+                "dryRun": self._dry_run
+            }
+        )
 
         response.raise_for_status()

@@ -1,6 +1,11 @@
 from abc import ABC, abstractmethod
 from typing import Dict, Any
 
+import anthropic
+import json
+import os
+
+
 class Llm(ABC):
     @abstractmethod
     def sample_text(self, prompt: str) -> str:
@@ -12,20 +17,22 @@ class Llm(ABC):
         """
         pass
 
-    @abstractmethod
-    def sample_json(self, prompt: str) -> Dict[str, Any]:
-        pass
-
 class MockLlm(Llm):
     def sample_text(self, prompt: str) -> str:
         return f"MOCK LLM<{prompt}>MOCK LLM"
 
-    def sample_json(self, prompt: str) -> Dict[str, Any]:
-        return {"prompt": prompt}
+class ClaudeLlm(Llm):
+    def __init__(self, api_key, model):
+        os.environ['ANTHROPIC_API_KEY'] = api_key
+        self.model = model
 
-class GptLlm(Llm):
-    def sample_text(self, prompt: str) -> str:
-        raise UnimplementedError()
-
-    def sample_json(self, prompt: str) -> Dict[str, Any]:
-        raise UnimplementedError()
+    def sample_text(self, prompt: str, max_tokens=4096) -> str:
+        response = anthropic.Anthropic().messages.create(
+            model=self.model,
+            max_tokens=max_tokens,
+            messages=[
+                {"role": "user", "content": prompt}
+            ]
+        )
+        assert len(response.content) == 1
+        return response.content[0].text
