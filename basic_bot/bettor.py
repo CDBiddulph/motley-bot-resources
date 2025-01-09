@@ -10,7 +10,7 @@ class Bettor(ABC):
 
 
 class HttpBettor(Bettor):
-    def init(self, api_key, dry_run=False):
+    def __init__(self, api_key, dry_run=False):
         self._api_key = api_key
         self._dry_run = dry_run
 

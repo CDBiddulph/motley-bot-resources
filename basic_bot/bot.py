@@ -136,8 +136,11 @@ You are an advanced AI system which has been finetuned to provide calibrated pro
         results = "\n\n".join(results)
         return query, results
 
-    def get_decision_for_market(self, market_url: str) -> Dict:
-        market_data = self._market_fetcher.get_market_data(market_url)
+    def get_market_data(self, market_url: str) -> Dict:
+        return self._market_fetcher.get_market_data(market_url)
+
+    def get_decision_for_market(self, market_url: str):
+        market_data = self.get_market_data(market_url)
         search_results = self._get_search_results_for_market(market_data)
         final_prompt = self._generate_final_decision_prompt(
             market_data, search_results)

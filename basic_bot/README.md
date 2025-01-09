@@ -17,7 +17,7 @@ python3 run.py \
   --input_file=input_data/test_markets.txt \
   --output_file=output_data/test_results.txt \
   --bet_type=dry_run \
-  --manifold_key_path=../../my-manifold-key.txt \
+  --manifold_key_path=../../my-manifold-key.txt
 ```
 
 `--input_file` is a newline-separated list of Manifold market URLs. `--output_file` will be written to with the decision and reasoning for each market.

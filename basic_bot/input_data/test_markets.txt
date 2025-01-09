@@ -1,8 +1,0 @@
-# 319 markets selected on 2024-01-28.
-# Close dates from 2024-11-30 to 2024-12-01 (or possibly up to 2024-12-07).
-https://manifold.markets/PlasmaBallin/will-any-state-be-decided-by-01-in        # Closes 2024-12-01 05:59:00. 16 bettors.
-https://manifold.markets/lisamarsh/will-a-democrat-win-the-2024-us-sen-48c27d4fe010        # Closes 2024-12-01 12:00:00. 12 bettors.
-https://manifold.markets/PlasmaBallin/will-a-republican-win-maine-in-the        # Closes 2024-12-01 05:59:00. 10 bettors.
-https://manifold.markets/PlasmaBallin/will-the-candidate-who-wins-arizona        # Closes 2024-12-01 05:59:00. 18 bettors.
-https://manifold.markets/PlasmaBallin/will-the-candidate-who-wins-north-c        # Closes 2024-12-01 05:59:00. 12 bettors.
-https://manifold.markets/PlasmaBallin/will-a-republican-win-wisconsin-in        # Closes 2024-12-01 05:59:00. 13 bettors.
