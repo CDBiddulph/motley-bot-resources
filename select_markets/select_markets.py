@@ -118,20 +118,21 @@ def get_market_from_json(market_json):
 def get_markets_in_time_range(min_close_time: datetime, max_close_time: datetime):
     offset = get_start_offset_for_time(min_close_time)
     markets = []
-    while True:
+    done = False
+    while not done:
         for market_json in get_fetch_markets_response(FetchRequest(offset=offset, limit=PAGE_LENGTH)):
             close_time = market_json["closeTime"]
             if close_time > get_timestamp(max_close_time):
-                return markets
+                done = True
+                break
             elif close_time < get_timestamp(min_close_time):
                 if markets:
                     raise ValueError("A market before min close time appeared after the first market had already been added:\n" + str(market))
             else:
                 markets.append(get_market_from_json(market_json))
         offset += PAGE_LENGTH
-    if len({market.market_id for market in markets}) != len(markets):
-        raise ValueError("There were duplicate markets.")
-    return markets
+    # Deduplicate markets and return.
+    return list({market.market_id: market for market in markets}.values())
 
 @dataclasses.dataclass
 class FilterConfig:
